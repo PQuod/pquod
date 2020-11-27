@@ -6,4 +6,4 @@ categories: websites WMAN
 type: site
 ---
 J'ai programmé -- thx to [Jekyll](https://jekyllrb.com/) again -- le site de notre super collectif [WMAN](http://wman.monster).
-<img class="photopost" src="{{baseurl}}/imgs/wmanweb.gif" onmouseover="this.src='{{baseurl}}/imgs/wmanweb.jpg'" onmouseout="this.src='{{baseurl}}/imgs/wmanweb.gif'" />
+<img class="photopost" src="{{site.baseurl}}/imgs/wmanweb.gif" onmouseover="this.src='{{site.baseurl}}/imgs/wmanweb.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/wmanweb.gif'" />

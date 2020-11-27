@@ -6,4 +6,4 @@ categories: wip
 type: expe
 ---
 WIP // Knitting the Obra Dinn // Summer alienation // From Lucas Pope's eponymous game
-<img class="photopost" src="{{baseurl}}/imgs/od3.gif" onmouseover="this.src='{{baseurl}}/imgs/od3.jpg'" onmouseout="this.src='{{baseurl}}/imgs/od3.gif'" />
+<img class="photopost" src="{{site.baseurl}}/imgs/od3.gif" onmouseover="this.src='{{site.baseurl}}/imgs/od3.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/od3.gif'" />

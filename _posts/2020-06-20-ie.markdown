@@ -9,5 +9,5 @@ type: site
 
 C’est un site où l’on peut lire des textes qui n’ont pas (encore) trouvé de place ailleurs, ou dont on n’a pas su quoi faire. Il n’est soumis à aucune régularité calendaire, ni à aucune limite quantitative. Il peut accueillir des textes de toutes langues, traduits ou non.
 
-J'ai développé le site avec le générateur de sites statiques [Jekyll](https://jekyllrb.com/), grâce aux conseils avisés de Candice Labrousse, Quentin Leclerc et Robinson Lacotte. 
-<img class="photopost" src="{{baseurl}}/imgs/ie.gif" onmouseover="this.src='{{baseurl}}/imgs/ie.jpg'" onmouseout="this.src='{{baseurl}}/imgs/ie.gif'" />
+J'ai développé le site avec le générateur de sites statiques [Jekyll](https://jekyllrb.com/), grâce aux conseils avisés de Candice Labrousse, Quentin Leclerc et Robinson Lacotte.
+<img class="photopost" src="{{site.baseurl}}/imgs/ie.gif" onmouseover="this.src='{{site.baseurl}}/imgs/ie.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/ie.gif'" />

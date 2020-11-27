@@ -6,4 +6,4 @@ categories: publications
 type: publication
 ---
 J'ai eu l'immense plaisir de participer au projet de Master de Laura Legros en écrivant une histoire pour enfants, *Les Bêtes sauvages grandissent la nuit*, superbement illustré par [Marine Des Mazery](https://marine-des-mazery.ultra-book.com) et édité en tirage limité (60 exemplaires) par les Editions Tirage de tête.
-<img class="photopost" src="{{baseurl}}/imgs/betes.gif" onmouseover="this.src='{{baseurl}}/imgs/betes.jpg'" onmouseout="this.src='{{baseurl}}/imgs/betes.gif'" />
+<img class="photopost" src="{{site.baseurl}}/imgs/betes.gif" onmouseover="this.src='{{site.baseurl}}/imgs/betes.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/betes.gif'" />
