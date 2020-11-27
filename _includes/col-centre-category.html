@@ -3,7 +3,6 @@
 
   {%- if posts.size > 0 -%}
     <ul class="post-list">
-      {%- assign date_format = site.minima.date_format | "%b %-d, %Y" -%}
       {%- for post in site.categories[page.category] -%}
       <article>
       <li>
@@ -11,21 +10,21 @@
     	  {% assign categories = post.categories %}
     		{% for category in categories %}
     			{%- if category == 'editions' -%}
-    			&#9636;
+    			<a class="{% if page.category == category %} active {% endif %}" href="{{ site.baseurl }}/category/{{ category }}">&#9636;</a>
     			{%- elsif category =='WMAN' -%}
-    			&#9637;
+    			<a class="{% if page.category == category %} active {% endif %}" href="{{ site.baseurl }}/category/{{ category }}">&#9637;</a>
     			{%- elsif category =='jeux' -%}
-    			&#9638;
+    			<a class="{% if page.category == category %} active {% endif %}" href="{{ site.baseurl }}/category/{{ category }}">&#9638;</a>
     			{%- elsif category =='wip' -%}
-    			&#9639;
+    			<a class="{% if page.category == category %} active {% endif %}" href="{{ site.baseurl }}/category/{{ category }}">&#9639;</a>
     			{%- elsif category =='websites' -%}
-    			&#9640;
+    			<a class="{% if page.category == category %} active {% endif %}" href="{{ site.baseurl }}/category/{{ category }}">&#9640;</a>
     			{%- elsif category =='publications' -%}
-    			&#9641;
+    			<a class="{% if page.category == category %} active {% endif %}" href="{{ site.baseurl }}/category/{{ category }}">&#9641;</a>
 				{%- elsif category =='poesiemaxi' -%}
-    			&#9703;
+    		<a class="{% if page.category == category %} active {% endif %}" href="{{ site.baseurl }}/category/{{ category }}">	&#9703;</a>
 				{%- elsif category =='presse' -%}
-    			&#9704;
+    			<a class="{% if page.category == category %} active {% endif %}" href="{{ site.baseurl }}/category/{{ category }}">&#9704;</a>
     			 {%- endif -%}
     		{% endfor %}
     		</div>
@@ -35,7 +34,7 @@
         </h3>
 
 		<div class="post-meta">
-		{{ post.date | date: date_format }}
+		{{ post.date | date_to_long_string }}
 		</div>
 
 

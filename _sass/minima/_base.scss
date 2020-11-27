@@ -67,7 +67,8 @@
 --sans-serif:'helvetica', sans-serif;
 --big-space:.1rem;
 --hover-color:red;
---shadow:#C61818 5px 5px;
+--shadow-color:#C61818;
+--shadow:var(--shadow-color) 5px 5px;
 }
 
 *{

@@ -1,5 +1,5 @@
 header{
-min-height:10vh;
+min-height:9vh;
 	width:100%;
 	text-transform: uppercase;
 
@@ -18,7 +18,6 @@ header a:hover{
 }
 
 .header-name  h1, a{
-
 	height:inherit;
 
 }
@@ -75,14 +74,36 @@ text-shadow:var(--shadow);
 font-size:calc(var(--font-size)*0.9);
 }
 
+.post-header{
+	width:100%;
+
+}
+
 .icon-type{
 position:relative;
 float:right;
 font-size:calc(var(--font-size)*1.5);
 }
 
+.icon-type a{
+	font-weight:normal;
+}
+
 .post-title{
 text-transform: uppercase;
+font-size: calc(var(--font-size)*1.5);
+}
+
+.post-meta{
+font-size:calc(var(--font-size)*0.7);
+font-family:var(--sans-serif);
+letter-spacing: var(--big-space);
+font-weight:bold;
+padding:2px;
+text-transform:uppercase;
+border-radius:3px;
+margin-bottom:var(--line-height);
+line-height:calc(var(--line-height)*0.3);
 }
 
 article{
@@ -95,23 +116,17 @@ article p{
 padding-bottom:calc(var(--line-height)*0.5);
 }
 
-.post-meta{
-font-size:calc(var(--font-size)*0.7);
-font-family:var(--sans-serif);
-letter-spacing: var(--big-space);
-font-weight:bold;
-padding:2px;
-text-transform:uppercase;
-border-radius:3px;
-margin-bottom:var(--line-height);
+.post-content a{
+	color:var(--shadow-color);
 }
 
-
-
+.post-content a:hover{
+	--shadow:var(--font-color) 5px 5px;
+}
 
 .photopost{
- width:100%;
- height:auto;
+	width:100%;
+	height:auto;
 mix-blend-mode: multiply;
 }
 

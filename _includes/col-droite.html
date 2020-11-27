@@ -1,7 +1,7 @@
 <div class="col-droite">
 <div class="ici">
 		<ul>
-				<li><a class="cat-nav" href="{{ site.baseurl }}/"><span class="nav-legende">&#8734;</span> Tout</a></li>
+				<li><a class="cat-nav {% if page.url == '/' %} active {%endif%}" href="{{ site.baseurl }}/"><span class="nav-legende">&#8734;</span> Tout</a></li>
 				{% for category in site.categories %}
 					{% capture category_name %}{{ category | first }}{% endcapture %}
 						<li><a class="cat-nav {% if page.category == category_name %} active {% endif %}" href="{{ site.baseurl }}/category/{{ category[0] | slugify }}">
