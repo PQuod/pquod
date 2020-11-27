@@ -1,0 +1,157 @@
+header{
+min-height:10vh;
+	width:100%;
+	text-transform: uppercase;
+
+}
+
+header a:hover{
+	text-shadow:var(--shadow);
+}
+
+.header-name{
+	width:inherit;
+	height:3em;
+	border-bottom:1px solid var(--font-color);
+	font-size: calc(var(--font-size)*0.5);
+		padding-left:10px;
+}
+
+.header-name  h1, a{
+
+	height:inherit;
+
+}
+
+
+.header-menu{
+		max-height:50%;
+		padding-left:10px;
+}
+
+.header-menu h1, a{
+		display: inline-block;
+}
+
+.header-menu h1:not(:first-child):before{
+	content:'\25CD  ';
+	font-size:calc(var(--font-size)*0.5);
+	font-weight:normal;
+}
+
+.home{
+			border-top: 1px solid var(--font-color);
+}
+
+.journal-grid{
+
+	margin:auto;
+	width:100%;
+	display:grid;
+	grid-template-columns:80% 20%;
+
+}
+
+.wrapper{
+	border:1px solid var(--font-color);
+	padding:0.5em;
+}
+
+.col-centre{
+overflow-y:scroll;
+max-height:89vh;
+}
+
+.col-centre a{
+font-family:var(--sans-serif);
+font-weight:bold;
+}
+
+.col-centre a:hover{
+text-shadow:var(--shadow);
+}
+
+.col-centre p a{
+font-size:calc(var(--font-size)*0.9);
+}
+
+.icon-type{
+position:relative;
+float:right;
+font-size:calc(var(--font-size)*1.5);
+}
+
+.post-title{
+text-transform: uppercase;
+}
+
+article{
+	padding:1em;
+	border-bottom:1px solid var(--font-color);
+
+}
+
+article p{
+padding-bottom:calc(var(--line-height)*0.5);
+}
+
+.post-meta{
+font-size:calc(var(--font-size)*0.7);
+font-family:var(--sans-serif);
+letter-spacing: var(--big-space);
+font-weight:bold;
+padding:2px;
+text-transform:uppercase;
+border-radius:3px;
+margin-bottom:var(--line-height);
+}
+
+
+
+
+.photopost{
+ width:100%;
+ height:auto;
+mix-blend-mode: multiply;
+}
+
+
+.col-droite{
+
+border-left: 1px solid var(--font-color);
+}
+
+.ici{
+	margin:1em;
+}
+
+.ailleurs{
+	margin:1em;
+}
+
+.nav-legende{
+font-size:calc(var(--font-size)*1.8);
+}
+
+.cat-nav{
+font-size:calc(var(--font-size)*0.7);
+font-family:var(--sans-serif);
+letter-spacing: var(--big-space);
+font-weight:bold;
+padding:2px;
+text-transform:uppercase;
+line-height: var(--line-height);
+}
+
+.active{
+	text-shadow:var(--shadow);
+}
+
+
+.cat-nav:hover{
+text-shadow:var(--shadow);
+}
+
+.imgbitmap :hover{
+display:none;
+}

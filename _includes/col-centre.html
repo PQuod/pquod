@@ -1,0 +1,53 @@
+<div class="col-centre">
+    {% assign posts = site.posts %}
+
+  {%- if posts.size > 0 -%}
+
+    <ul class="post-list">
+      {%- assign date_format = site.minima.date_format | "%b %-d, %Y" -%}
+      {%- for post in posts -%}
+      <article>
+      <li>
+	  <div class="icon-type">
+    	  {% assign categories = post.categories %}
+    		{% for category in categories %}
+    			{%- if category == 'editions' -%}
+    			&#9636;
+    			{%- elsif category =='WMAN' -%}
+    			&#9637;
+    			{%- elsif category =='jeux' -%}
+    			&#9638;
+    			{%- elsif category =='wip' -%}
+    			&#9639;
+    			{%- elsif category =='websites' -%}
+    			&#9640;
+    			{%- elsif category =='publications' -%}
+    			&#9641;
+				{%- elsif category =='poesiemaxi' -%}
+    			&#9703;
+				{%- elsif category =='presse' -%}
+    			&#9704;
+    			 {%- endif -%}
+    		{% endfor %}
+    		</div>
+
+        <h3 class="post-title">
+            {{ post.title | escape }}
+        </h3>
+
+		<div class="post-meta">
+		{{ post.date | date: date_format }}
+		</div>
+
+
+
+          {{ post.content }}
+
+
+      </li>
+      	</article>
+      {%- endfor -%}
+    </ul>
+
+  {%- endif -%}
+	</div>
