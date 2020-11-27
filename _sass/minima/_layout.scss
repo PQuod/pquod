@@ -76,7 +76,6 @@ font-size:calc(var(--font-size)*0.9);
 
 .post-header{
 	width:100%;
-
 }
 
 .icon-type{
@@ -92,6 +91,14 @@ font-size:calc(var(--font-size)*1.5);
 .post-title{
 text-transform: uppercase;
 font-size: calc(var(--font-size)*1.5);
+}
+
+.post-title:before{
+content:'\205E'
+}
+
+.post-title:after{
+content:'\205E'
 }
 
 .post-meta{
@@ -124,24 +131,19 @@ padding-bottom:calc(var(--line-height)*0.5);
 	--shadow:var(--font-color) 5px 5px;
 }
 
-.photopost{
-	width:100%;
-	height:auto;
-mix-blend-mode: multiply;
-}
 
 
 .col-droite{
-
 border-left: 1px solid var(--font-color);
 }
 
 .ici{
-	margin:1em;
+	padding:1em;
 }
 
 .ailleurs{
-	margin:1em;
+	border-top:1px solid var(--font-color);
+	padding:1em;
 }
 
 .nav-legende{
@@ -169,4 +171,17 @@ text-shadow:var(--shadow);
 
 .imgbitmap :hover{
 display:none;
+}
+
+.photopost{
+	width:100%;
+	height:auto;
+mix-blend-mode: multiply;
+}
+
+.photopost-pett{
+	width:50%;
+	height:auto;
+	margin-left:25%;
+	mix-blend-mode: multiply;
 }
