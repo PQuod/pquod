@@ -2,7 +2,7 @@
 layout: post
 title:  "WMAN - DriveIn"
 date:   2020-10-07 10:12:37 +0200
-categories: WMAN
+categories: wman
 type: event
 ---
 Ce soir nous avons projeté ["Ange"](https://fleuryfontaine.fr/ange/), un film de Fleury Fontaine, dans notre [Drive In sur Manyland](http://manyland.com/wmanbuild/)

@@ -2,7 +2,7 @@
 layout: post
 title:  "WMAN on air"
 date:   2020-10-15 10:12:37 +0200
-categories: presse WMAN
+categories: presse wman
 type: news
 ---
 La WMAN guild est très très fière de la douce voix de [Valentin Godard](http://mauricegodard.fr/), interviewé par la team de [la Playade](https://laplayade.fr/) ce mois-ci ! Merci à eux tous pour l'invitation et la qualité de cette rencontre.

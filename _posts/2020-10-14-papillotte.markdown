@@ -2,7 +2,7 @@
 layout: post
 title:  "WMAN in a papillotte"
 date:   2020-10-14 10:12:37 +0200
-categories: presse WMAN
+categories: presse wman
 type: news
 ---
 WMAN apparaît dans la croustillante Papillotte de Nicolas Frespech ! Pour s'abonner à sa délicieuse newsletter, c'est [ici](https://tinyletter.com/Papillote)

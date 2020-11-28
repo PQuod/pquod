@@ -160,12 +160,17 @@ text-transform:uppercase;
 line-height: var(--line-height);
 }
 
+.cat-nav a{
+	display:inline;
+}
+
+
 .active{
 	text-shadow:var(--shadow);
 }
 
 
-.cat-nav:hover{
+.cat-nav a:hover{
 text-shadow:var(--shadow);
 }
 
@@ -184,4 +189,25 @@ mix-blend-mode: multiply;
 	height:auto;
 	margin-left:25%;
 	mix-blend-mode: multiply;
+}
+
+.infobulle {
+	position:relative;
+}
+
+.infobulle:hover:after,
+.infobulle:focus:after {
+  content: attr(aria-label);  /* on affiche aria-label */
+	color:var(--font-color);
+	position: absolute;
+  top: -2em;
+left:-70%;
+  transform: translateX(-50%); /* on centre horizontalement  */
+  z-index: 1; /* pour s'afficher au dessus des éléments en position relative */
+  white-space: nowrap;  /* on interdit le retour à la ligne */
+	font-size:calc(var(--font-size)*0.5);
+	font-family:var(--sans-serif);
+	letter-spacing: var(--big-space);
+	font-weight:bold;
+	text-transform:uppercase;
 }
