@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
@@ -5,3 +6,12 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+=======
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
+>>>>>>> Stashed changes

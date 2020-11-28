@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <div class="col-droite">
 <div class="ici">
 		<ul>
@@ -42,3 +43,49 @@
 			<p>&#9657; l.desaubliaux [at] gmail.com &#9667;</p>
 			</div>
 	</div>
+=======
+<div class="col-droite">
+<div class="ici">
+		<ul>
+				<li class="cat-nav"><a class="{% if page.url == '/' %} active {%endif%}" href="{{ site.baseurl }}/"><span class="nav-legende">&#8734;</span> Tout</a></li>
+				{% for category in site.categories %}
+					{% capture category_name %}{{ category | first }}{% endcapture %}
+						<li class="cat-nav"><a class="{% if page.category == category_name %} active {% endif %}" href="{{ site.baseurl }}/category/{{ category[0] | slugify }}">
+						<span class="nav-legende">{%- if category_name == 'editions' -%}
+						&#9636;
+						{%- elsif category_name =='wman' -%}
+						&#9637;
+						{%- elsif category_name =='jeux' -%}
+						&#9638;
+						{%- elsif category_name =='wip' -%}
+						&#9639;
+						{%- elsif category_name =='websites' -%}
+						&#9640;
+						{%- elsif category_name =='publications' -%}
+						&#9641;
+						{%- elsif category_name =='poesiemaxi' -%}
+						&#9703;
+						{%- elsif category_name =='presse' -%}
+						&#9704;
+						{%- endif -%}</span>
+						{{ category_name }}
+						</a></li>
+						{% endfor %}
+
+		</ul>
+		<ul>
+		</div>
+		<div class="ailleurs">
+			<h3>&#8671; Sites &#8671; </h3>
+			<p><a  class="cat-nav" href="http://wman.monster" target="_blank">&#9657; WMAN &#9667;</a></p>
+			<p><a  class="cat-nav" href="https://poesiemaxi.hotglue.me/" target="_blank">&#9657; Poésie Maxi &#9667;</a></p>
+			<p><a  class="cat-nav" href="https://internetexploreur.com/" target="_blank">&#9657; Internet Exploreur &#9667;</a></p>
+			<h3>&#8671; Réseaux &#8671; </h3>
+			<p><a class="cat-nav" href="https://www.instagram.com/lucie_desaubliaux/" target="_blank">&#9656; I &#9666;</a></p>
+			<p><a  class="cat-nav" href="https://www.facebook.com/lucie.dsbx" target="_blank">&#9656; F &#9666;</a></p>
+			<p><a  class="cat-nav" href="https://github.com/PQuod" target="_blank">&#9656; G &#9666;</a></p>
+			<h3>&#8671 M'écrire &#8671</h3>
+			<p>&#9657; l.desaubliaux [at] gmail.com &#9667;</p>
+			</div>
+	</div>
+>>>>>>> Stashed changes

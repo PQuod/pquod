@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 header{
 min-height:9vh;
 	width:100%;
@@ -211,3 +212,218 @@ left:-70%;
 	font-weight:bold;
 	text-transform:uppercase;
 }
+=======
+header{
+min-height:9vh;
+	width:100%;
+	text-transform: uppercase;
+
+}
+
+header a:hover{
+	text-shadow:var(--shadow);
+}
+
+.header-name{
+	width:inherit;
+	height:3em;
+	border-bottom:1px solid var(--font-color);
+	font-size: calc(var(--font-size)*0.5);
+		padding-left:10px;
+}
+
+.header-name  h1, a{
+	height:inherit;
+
+}
+
+
+.header-menu{
+		max-height:50%;
+		padding-left:10px;
+}
+
+.header-menu h1, a{
+		display: inline-block;
+}
+
+.header-menu h1:not(:first-child):before{
+	content:'\25CD  ';
+	font-size:calc(var(--font-size)*0.5);
+	font-weight:normal;
+}
+
+.home{
+			border-top: 1px solid var(--font-color);
+}
+
+.journal-grid{
+
+	margin:auto;
+	width:100%;
+	display:grid;
+	grid-template-columns:80% 20%;
+
+}
+
+.wrapper{
+	border:1px solid var(--font-color);
+	padding:0.5em;
+}
+
+.col-centre{
+overflow-y:scroll;
+max-height:89vh;
+}
+
+.col-centre a{
+font-family:var(--sans-serif);
+font-weight:bold;
+}
+
+.col-centre a:hover{
+text-shadow:var(--shadow);
+}
+
+.col-centre p a{
+font-size:calc(var(--font-size)*0.9);
+}
+
+.post-header{
+	width:100%;
+}
+
+.icon-type{
+position:relative;
+float:right;
+font-size:calc(var(--font-size)*1.5);
+}
+
+.icon-type a{
+	font-weight:normal;
+}
+
+.post-title{
+text-transform: uppercase;
+font-size: calc(var(--font-size)*1.5);
+}
+
+.post-title:before{
+content:'\205E'
+}
+
+.post-title:after{
+content:'\205E'
+}
+
+.post-meta{
+font-size:calc(var(--font-size)*0.7);
+font-family:var(--sans-serif);
+letter-spacing: var(--big-space);
+font-weight:bold;
+padding:2px;
+text-transform:uppercase;
+border-radius:3px;
+margin-bottom:var(--line-height);
+line-height:calc(var(--line-height)*0.3);
+}
+
+article{
+	padding:1em;
+	border-bottom:1px solid var(--font-color);
+
+}
+
+article p{
+padding-bottom:calc(var(--line-height)*0.5);
+}
+
+.post-content a{
+	color:var(--shadow-color);
+}
+
+.post-content a:hover{
+	--shadow:var(--font-color) 5px 5px;
+}
+
+
+
+.col-droite{
+border-left: 1px solid var(--font-color);
+}
+
+.ici{
+	padding:1em;
+}
+
+.ailleurs{
+	border-top:1px solid var(--font-color);
+	padding:1em;
+}
+
+.nav-legende{
+font-size:calc(var(--font-size)*1.8);
+}
+
+.cat-nav{
+font-size:calc(var(--font-size)*0.7);
+font-family:var(--sans-serif);
+letter-spacing: var(--big-space);
+font-weight:bold;
+padding:2px;
+text-transform:uppercase;
+line-height: var(--line-height);
+}
+
+.cat-nav a{
+	display:inline;
+}
+
+
+.active{
+	text-shadow:var(--shadow);
+}
+
+
+.cat-nav a:hover{
+text-shadow:var(--shadow);
+}
+
+.imgbitmap :hover{
+display:none;
+}
+
+.photopost{
+	width:100%;
+	height:auto;
+mix-blend-mode: multiply;
+}
+
+.photopost-pett{
+	width:50%;
+	height:auto;
+	margin-left:25%;
+	mix-blend-mode: multiply;
+}
+
+.infobulle {
+	position:relative;
+}
+
+.infobulle:hover:after,
+.infobulle:focus:after {
+  content: attr(aria-label);  /* on affiche aria-label */
+	color:var(--font-color);
+	position: absolute;
+  top: -2em;
+left:-70%;
+  transform: translateX(-50%); /* on centre horizontalement  */
+  z-index: 1; /* pour s'afficher au dessus des éléments en position relative */
+  white-space: nowrap;  /* on interdit le retour à la ligne */
+	font-size:calc(var(--font-size)*0.5);
+	font-family:var(--sans-serif);
+	letter-spacing: var(--big-space);
+	font-weight:bold;
+	text-transform:uppercase;
+}
+>>>>>>> Stashed changes

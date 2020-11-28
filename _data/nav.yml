@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 - text: Journal
   place: header
   url: /
@@ -7,3 +8,14 @@
 - text: Tout
   place: droite
   url: /
+=======
+- text: Journal
+  place: header
+  url: /
+- text: Travaux
+  place: header
+  url: /travaux/
+- text: Tout
+  place: droite
+  url: /
+>>>>>>> Stashed changes
