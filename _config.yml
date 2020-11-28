@@ -22,13 +22,10 @@ title: Lucie Desaubliaux
 email: l.desaubliaux@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Flux, cheminement & Cristallisations
-<<<<<<< Updated upstream
+
 baseurl: "/pquod" # the subpath of your site, e.g. /blog
 url: "https://github.com/PQuod/pquod" # the base hostname & protocol for your site, e.g. http://example.com
-=======
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
->>>>>>> Stashed changes
+
 github_username:  PQuod
 
 # Build settings
