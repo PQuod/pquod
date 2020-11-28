@@ -7,5 +7,3 @@ categories: presse wman
 On parle de WMAN dans le nouveau [Immersion](https://immersion-revue.fr/immersion-n5-largent/) !!
 
 <img class="photopost" src="{{site.baseurl}}/imgs/immersion.gif" onmouseover="this.src='{{site.baseurl}}/imgs/immersion.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/immersion.gif'" />
-
-<img class="photopost-pett" src="{{site.baseurl}}/imgs/immersion1.gif" onmouseover="this.src='{{site.baseurl}}/imgs/immersion1.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/immersion1.gif'" />
