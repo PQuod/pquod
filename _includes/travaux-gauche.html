@@ -1,12 +1,13 @@
 <div class="travaux-gauche">
 <div class="piste">
-<h2>Quete</h2>
-<ul>
-{% for post in site.categories.travaux %}
-      {% if post.piste == 'quete' %}
-      <li><h3><a href="{{ post.url }}">{{ post.title }}</a></h3></li>
-      {% endif %}
-{% endfor %}
-</ul>
-</div>
-</div>
+  {% for category in site.categories %}
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+      {% if category_name == 'la-quete-de-la-quete' %}
+        <h2>{{ category_name | split: '-' | join: ' '}}</h2>
+        {% for post in site.categories.[category_name] %}
+        <li><h3><a href="{{ post.url }}">{{ post.title }}</a></h3></li>
+        {% endfor %}
+    {% endif %}
+  {% endfor %}
+  </div>
+  </div>
