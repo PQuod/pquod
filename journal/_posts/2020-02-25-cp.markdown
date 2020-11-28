@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Corner Posters"
+date:   2020-02-25 10:12:37 +0200
+categories: editions
+type: publication
+---
+Les copains du [https://studiocourteechelle.com/](Studio Courte Échelle) publient les Corner Posters, des affiches à mettre dans les coins.
+*Un coin qui me rappelle* de François Belsoeur et *Un coin de ciel bleu* d'Alexandra Lafitte Cavalle sont disponibles [ici](https://studiocourteechelle.com/project/corner-posters/).
+<figcaption>Photos : Studio Courte Echelle</figcaption>
+<img class="photopost" src="{{site.baseurl}}/imgs/cp1.gif" onmouseover="this.src='{{site.baseurl}}/imgs/cp1.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/cp1.gif'" />
+<img class="photopost" src="{{site.baseurl}}/imgs/cp2.gif" onmouseover="this.src='{{site.baseurl}}/imgs/cp2.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/cp2.gif'" />

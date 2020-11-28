@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "La Nuit Sera Belle"
+date:   2020-02-25 10:12:37 +0200
+categories: travaux
+piste: quete
+---
+La nuit sera belle c'était bien.

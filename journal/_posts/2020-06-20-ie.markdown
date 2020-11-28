@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Internet Exploreur"
+date:   2020-06-20 10:12:37 +0200
+categories: websites
+type: site
+---
+[Internet Exploreur](https://internetexploreur.com) c'est un site un site de littérature qui accueille des textes inédits. Il n’y a pas de comité éditorial, mais il n’est possible d’y publier que si vous y avez été invité.
+
+C’est un site où l’on peut lire des textes qui n’ont pas (encore) trouvé de place ailleurs, ou dont on n’a pas su quoi faire. Il n’est soumis à aucune régularité calendaire, ni à aucune limite quantitative. Il peut accueillir des textes de toutes langues, traduits ou non.
+
+J'ai développé le site avec le générateur de sites statiques [Jekyll](https://jekyllrb.com/), grâce aux conseils avisés de Candice Labrousse, Quentin Leclerc et Robinson Lacotte.
+<img class="photopost" src="{{site.baseurl}}/imgs/ie.gif" onmouseover="this.src='{{site.baseurl}}/imgs/ie.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/ie.gif'" />

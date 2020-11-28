@@ -12,7 +12,7 @@ header a:hover{
 .header-name{
 	width:inherit;
 	height:3em;
-	border-bottom:1px solid var(--font-color);
+	border-bottom:var(--border);
 	font-size: calc(var(--font-size)*0.5);
 		padding-left:10px;
 }
@@ -39,7 +39,7 @@ header a:hover{
 }
 
 .home{
-			border-top: 1px solid var(--font-color);
+			border-top: var(--border);
 }
 
 .journal-grid{
@@ -52,7 +52,7 @@ header a:hover{
 }
 
 .wrapper{
-	border:1px solid var(--font-color);
+	border:var(--border);
 	padding:0.5em;
 }
 
@@ -108,14 +108,13 @@ letter-spacing: var(--big-space);
 font-weight:bold;
 padding:2px;
 text-transform:uppercase;
-border-radius:3px;
 margin-bottom:var(--line-height);
 line-height:calc(var(--line-height)*0.3);
 }
 
 article{
 	padding:1em;
-	border-bottom:1px solid var(--font-color);
+	border-bottom:var(--border);
 
 }
 
@@ -134,7 +133,7 @@ padding-bottom:calc(var(--line-height)*0.5);
 
 
 .col-droite{
-border-left: 1px solid var(--font-color);
+border-left: var(--border);
 }
 
 .ici{
@@ -142,7 +141,7 @@ border-left: 1px solid var(--font-color);
 }
 
 .ailleurs{
-	border-top:1px solid var(--font-color);
+	border-top:var(--border);
 	padding:1em;
 }
 
@@ -210,4 +209,41 @@ left:-70%;
 	letter-spacing: var(--big-space);
 	font-weight:bold;
 	text-transform:uppercase;
+}
+
+
+/*
+TRAVAUX
+*/
+
+.travaux-content{
+	width:100%;
+	border-top:var(--border);
+}
+.travaux-grid{
+	margin:auto;
+	width:100%;
+	display:grid;
+	grid-template-columns:30% 70%;
+}
+.travaux-gauche{
+	border-right:var(--border);
+}
+
+.piste{
+	border-bottom:var(--border);
+	width:100%;
+}
+
+.piste h2{
+	padding:10px;
+	text-transform: uppercase;
+}
+
+.piste li{
+	padding-left:20px;
+}
+
+.piste a:before{
+	content:'\2BA1  '
 }

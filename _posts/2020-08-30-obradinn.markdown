@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Knitting the Obra Dinn"
-date:   2020-08-30 10:12:37 +0200
-categories: wip
-type: expe
----
-WIP // Knitting the Obra Dinn // Summer alienation // From Lucas Pope's eponymous game
-<img class="photopost" src="{{site.baseurl}}/imgs/od3.gif" onmouseover="this.src='{{site.baseurl}}/imgs/od3.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/od3.gif'" />

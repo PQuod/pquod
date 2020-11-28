@@ -1,9 +1,0 @@
----
-layout: post
-title:  "WMAN.MONSTER"
-date:   2020-08-16 10:12:37 +0200
-categories: websites wman
-type: site
----
-J'ai programmé -- thx to [Jekyll](https://jekyllrb.com/) again -- le site de notre super collectif [WMAN](http://wman.monster).
-<img class="photopost" src="{{site.baseurl}}/imgs/wmanweb.gif" onmouseover="this.src='{{site.baseurl}}/imgs/wmanweb.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/wmanweb.gif'" />
