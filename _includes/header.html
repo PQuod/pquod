@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 <header>
   <div class="header-name">
     <h1><a href="{{ site.baseurl }}/">Lucie Desaubliaux</a></h1>
@@ -11,17 +10,3 @@
     {% endfor %}
   </div>
 </header>
-=======
-<header>
-  <div class="header-name">
-    <h1><a href="{{ site.baseurl }}/">Lucie Desaubliaux</a></h1>
-  </div>
-  <div class="header-menu">
-    {% for nav in site.data.nav %}
-    {% if nav.place == 'header' %}
-    <h1><a {% if nav.url == page.url %} class="active" {%endif%} href="{{ nav.url }}">{{ nav.text }}</a></h1>
-    {% endif %}
-    {% endfor %}
-  </div>
-</header>
->>>>>>> Stashed changes

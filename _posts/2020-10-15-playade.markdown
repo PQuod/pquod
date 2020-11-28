@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 ---
 layout: post
 title:  "WMAN on air"
@@ -8,14 +7,3 @@ type: news
 ---
 La WMAN guild est très très fière de la douce voix de [Valentin Godard](http://mauricegodard.fr/), interviewé par la team de [la Playade](https://laplayade.fr/) ce mois-ci ! Merci à eux tous pour l'invitation et la qualité de cette rencontre.
 <iframe width="100%" height="166" scrolling="no" style="mix-blend-mode: multiply;" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/910897915&color=5491de"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-685502308" title="La Playade" target="_blank" style="color: #cccccc; text-decoration: none;">La Playade</a> · <a href="https://soundcloud.com/user-685502308/la-playade-39-octobre-2020-avec-lartiste-valentin-godard-du-collectif-wman" title="La Playade #39 (Octobre 2020) avec l&#x27;artiste Valentin Godard du collectif WMAN" target="_blank" style="color: #cccccc; text-decoration: none;">La Playade #39 (Octobre 2020) avec l&#x27;artiste Valentin Godard du collectif WMAN</a></div>
-=======
----
-layout: post
-title:  "WMAN on air"
-date:   2020-10-15 10:12:37 +0200
-categories: presse wman
-type: news
----
-La WMAN guild est très très fière de la douce voix de [Valentin Godard](http://mauricegodard.fr/), interviewé par la team de [la Playade](https://laplayade.fr/) ce mois-ci ! Merci à eux tous pour l'invitation et la qualité de cette rencontre.
-<iframe width="100%" height="166" scrolling="no" style="mix-blend-mode: multiply;" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/910897915&color=5491de"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-685502308" title="La Playade" target="_blank" style="color: #cccccc; text-decoration: none;">La Playade</a> · <a href="https://soundcloud.com/user-685502308/la-playade-39-octobre-2020-avec-lartiste-valentin-godard-du-collectif-wman" title="La Playade #39 (Octobre 2020) avec l&#x27;artiste Valentin Godard du collectif WMAN" target="_blank" style="color: #cccccc; text-decoration: none;">La Playade #39 (Octobre 2020) avec l&#x27;artiste Valentin Godard du collectif WMAN</a></div>
->>>>>>> Stashed changes
