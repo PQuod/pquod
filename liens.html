@@ -1,15 +1,15 @@
 ---
 layout: default
 ---
-
-<div class="lien"><a href="http://alixdesaubliaux.fr">Alix desaubliaux</a></div>
-<div class="lien"><a href="https://carineklonowski.net">Carin Klonowski</a></div>
-<div class="lien"><a href="https://minheekim.fr">Minhee Kim</a></div>
-<div class="lien"><a href="https://baptistefertillet.wixsite.com/site/">Baptiste Fertillet</a></div>
-<div class="lien"><a href="http://www.arthurdebert.fr/">Arthur Debert</a></div>
-<div class="lien"><a href="https://mauricegodard.fr/">Maurice Godard</a></div>
-<div class="lien"><a href="https://mrsumima.tumblr.com/">Léo Gouhier</a></div>
-
+<div class="liens-content">
+  <div class="lien"><a href="http://alixdesaubliaux.fr">Alix desaubliaux</a></div>
+  <div class="lien"><a href="https://carineklonowski.net">Carin Klonowski</a></div>
+  <div class="lien"><a href="https://minheekim.fr">Minhee Kim</a></div>
+  <div class="lien"><a href="https://baptistefertillet.wixsite.com/site/">Baptiste Fertillet</a></div>
+  <div class="lien"><a href="http://www.arthurdebert.fr/">Arthur Debert</a></div>
+  <div class="lien"><a href="https://mauricegodard.fr/">Maurice Godard</a></div>
+  <div class="lien"><a href="https://mrsumima.tumblr.com/">Léo Gouhier</a></div>
+</div>
 
 
 
@@ -26,7 +26,7 @@ layout: default
       var thisDiv = divs[i];
       // get random numbers for each element
       randomTop = getRandomNumber(100, winHeight);
-      randomLeft = getRandomNumber(0, winWidth);
+      randomLeft = getRandomNumber(0, (winWidth-100));
       // update top and left position
       thisDiv.style.top = randomTop +"px";
       thisDiv.style.left = randomLeft +"px";

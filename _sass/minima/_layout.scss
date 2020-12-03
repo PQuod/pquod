@@ -279,7 +279,10 @@ border-top:var(--border);
 	}
 }
 
-
+.liens-content{
+	border-top:var(--border);
+	width:100%;
+}
 .lien{
 	position: absolute;
     top: 100px;

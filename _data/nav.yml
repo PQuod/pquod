@@ -4,6 +4,9 @@
 - text: Travaux
   place: header
   url: /travaux/
+- text: Liens
+  place: header
+  url: /liens/
 - text: Tout
   place: droite
   url: /
