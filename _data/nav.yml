@@ -3,10 +3,10 @@
   url: /
 - text: Travaux
   place: header
-  url: /travaux/
+  url: travaux/
 - text: Liens
   place: header
-  url: /liens/
+  url: liens/
 - text: Tout
   place: droite
   url: /
