@@ -3,9 +3,13 @@
     <h1><a href="{{ site.baseurl }}/">Lucie Desaubliaux</a></h1>
   </div>
   <div class="header-menu">
+    {% capture page_type %}{{ page.type }}{% endcapture %}
     {% for nav in site.data.nav %}
-    {% if nav.place == 'header' %}
-    <h1><a {% if nav.url == page.url %} class="active" {%endif%} href="{{ page.url }}">{{ nav.text }}</a></h1>
+    {% if nav.text == 'Journal' %}
+    <h1><a {% if nav.url == page.url or page_type == 'journal' %} class="active" {%endif%} href="{{ nav.url }}">{{ nav.text }}</a></h1>
+    {% endif %}
+    {% if nav.text == 'Travaux' %}
+    <h1><a {% if nav.url == page.url or page_type == 'travaux' %} class="active" {%endif%} href="{{ nav.url }}">{{ nav.text }}</a></h1>
     {% endif %}
     {% endfor %}
   </div>

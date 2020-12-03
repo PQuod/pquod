@@ -228,15 +228,14 @@ TRAVAUX
 }
 .travaux-gauche{
 	border-right:var(--border);
+	border-bottom:var(--border);
 }
 
 .piste{
-	border-bottom:var(--border);
-	width:100%;
+	padding:10px;
 }
 
 .piste h2{
-	padding:10px;
 	text-transform: uppercase;
 }
 
@@ -244,6 +243,10 @@ TRAVAUX
 	padding-left:20px;
 }
 
-.piste a:before{
+.piste a:hover{
+	text-shadow:var(--shadow);
+}
+
+.piste h3:before{
 	content:'\2BA1  '
 }

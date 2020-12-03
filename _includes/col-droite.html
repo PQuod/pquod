@@ -4,27 +4,29 @@
 				<li class="cat-nav"><a class="{% if page.url == '/' %} active {%endif%}" href="{{ site.baseurl }}/"><span class="nav-legende">&#8734;</span> Tout</a></li>
 				{% for category in site.categories %}
 					{% capture category_name %}{{ category | first }}{% endcapture %}
+					{% if category_name != 'journal' and category_name !='travaux'  %}
 						<li class="cat-nav"><a class="{% if page.category == category_name %} active {% endif %}" href="{{ site.baseurl }}/category/{{ category[0] | slugify }}">
 						<span class="nav-legende">{%- if category_name == 'editions' -%}
-						&#9636;
+						&#9636; </span> {{ category_name }}
 						{%- elsif category_name =='wman' -%}
-						&#9637;
+						&#9637; </span> {{ category_name }}
 						{%- elsif category_name =='jeux' -%}
-						&#9638;
+						&#9638; </span> {{ category_name }}
 						{%- elsif category_name =='wip' -%}
-						&#9639;
+						&#9639; </span> {{ category_name }}
 						{%- elsif category_name =='websites' -%}
-						&#9640;
+						&#9640; </span> {{ category_name }}
 						{%- elsif category_name =='publications' -%}
-						&#9641;
+						&#9641; </span> {{ category_name }}
 						{%- elsif category_name =='poesiemaxi' -%}
-						&#9703;
+						&#9703; </span> {{ category_name }}
 						{%- elsif category_name =='presse' -%}
-						&#9704;
-						{%- endif -%}</span>
-						{{ category_name }}
+						&#9704; </span> {{ category_name }}
+						{%- endif -%}
+
 						</a></li>
-						{% endfor %}
+					{% endif %}
+				{% endfor %}
 
 		</ul>
 		<ul>

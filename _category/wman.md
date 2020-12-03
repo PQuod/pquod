@@ -1,4 +1,0 @@
----
-title: wman
-category: wman
----

@@ -1,4 +1,0 @@
----
-title: Jeux
-category: jeux
----
