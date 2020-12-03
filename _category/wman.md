@@ -1,4 +1,4 @@
 ---
-title: WMAN
-category: WMAN
+title: wman
+category: wman
 ---
