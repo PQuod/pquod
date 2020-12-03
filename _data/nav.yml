@@ -1,12 +1,12 @@
 - text: Journal
   place: header
-  url: /
+  url: baseurl/
 - text: Travaux
   place: header
-  url: /travaux/
+  url: baseurl/travaux/
 - text: Liens
   place: header
-  url: /liens/
+  url: baseurl/liens/
 - text: Tout
   place: droite
-  url: /
+  url: baseurl/
