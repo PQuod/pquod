@@ -4,6 +4,6 @@ title:  "Ca ressemble à du faux II"
 date:   2020-12-02 10:12:37 +0200
 categories: publications
 ---
-J'ai retrouvé ce petit bout de textes en publiant sur [Internet Exploreur](https://internetexploreur.com) une recherche sur le travail de l'artiste Marie-Laure Gucciardi. L'intégralité du texte est visible [ici](https://internetexploreur.com/ca-ressemble-a-du-faux-2/)
+J'ai retrouvé ce petit bout de texte en publiant sur [Internet Exploreur](https://internetexploreur.com) une recherche sur le travail de l'artiste Marie-Laure Gucciardi. L'intégralité du texte est visible [ici](https://internetexploreur.com/ca-ressemble-a-du-faux-2/)
 
 <img class="photopost" src="{{site.baseurl}}/imgs/mlg.gif" onmouseover="this.src='{{site.baseurl}}/imgs/mlg.PNG'" onmouseout="this.src='{{site.baseurl}}/imgs/mlg.gif'" />
