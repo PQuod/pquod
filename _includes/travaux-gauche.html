@@ -1,12 +1,16 @@
 <div class="travaux-gauche">
-  {% for tag in site.tags %}
+  {% assign sorted_tags = site.tags | sort %}
+  {% for tag in sorted_tags reversed %}
+  {% assign t = tag | first %}
   <div class="piste">
-    {% capture category_name %}{{ tag | first }}{% endcapture %}
-        <h2>{{ category_name | split: '-' | join: ' '}}</h2>
-        {% for post in site.tags.[category_name] %}
-        <li><h3><a href="{{ post.url }}">{{ post.title }}</a></h3></li>
+    {% capture tag_name %}{{ tag | first }}{% endcapture %}
+        <h2>{{ t | split: '-' | shift | join: ' '}}</h2>
+        {% for post in site.tags.[tag_name] %}
+        {% assign page_title = page.title | downcase%}
+        {% assign post_title = post.title | downcase%}
+        <li><h3><a class="{% if page_title == post_title %}active{% endif %}" href="{{ post.url }}">{{ post.title }}</a></h3></li>
         {% endfor %}
-        </div>
+          </div>
   {% endfor %}
 
   </div>

@@ -2,12 +2,12 @@
 layout: travaux
 ---
 <article>
-  <header class="post-header">
-    <h2 class="travaux-post-title">{{ page.title | escape }}</h2>
+  <div class="post-header">
+    <h2 class="post-title">{{ page.title | escape }}</h2>
     <p class="post-meta">
-        {{ page.description }} &#8855 {{ page.annee }}
+        {{ page.medium }} &#8855; {{ page.description }} {% if page.dimensions != nil %} &#8855; {{ page.dimensions }} {% endif %} &#8855; {{ page.annee }}
     </p>
-  </header>
+  </div>
 
   <div class="post-content">
     {{ content }}

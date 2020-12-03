@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<div class="lien"><a href="http://alixdesaubliaux.fr">Alix desaubliaux</a></div>
+<div class="lien"><a href="https://carineklonowski.net">Carin Klonowski</a></div>
+<div class="lien"><a href="https://minheekim.fr">Minhee Kim</a></div>
+<div class="lien"><a href="https://baptistefertillet.wixsite.com/site/">Baptiste Fertillet</a></div>
+<div class="lien"><a href="http://www.arthurdebert.fr/">Arthur Debert</a></div>
+<div class="lien"><a href="https://mauricegodard.fr/">Maurice Godard</a></div>
+<div class="lien"><a href="https://mrsumima.tumblr.com/">Léo Gouhier</a></div>
+
+
+
+
+
+<script>
+  // collect all the divs
+  var divs =  document.getElementsByClassName('lien')
+  // get window width and height
+  var winWidth = window.innerWidth;
+  var winHeight = window.innerHeight;
+  // i stands for "index". you could also call this banana or haircut. it's a variable
+  for ( var i=0; i < divs.length; i++ ) {
+      // shortcut! the current div in the list
+      var thisDiv = divs[i];
+      // get random numbers for each element
+      randomTop = getRandomNumber(100, winHeight);
+      randomLeft = getRandomNumber(0, winWidth);
+      // update top and left position
+      thisDiv.style.top = randomTop +"px";
+      thisDiv.style.left = randomLeft +"px";
+  }
+
+  // function that returns a random number between a min and max
+  function getRandomNumber(min, max) {
+
+    return Math.random() * (max - min) + min;
+
+  }
+  </script>
