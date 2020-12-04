@@ -2,7 +2,10 @@
 <html lang="{{ page.lang | default: site.lang | default: 'fr' }}">
   {%- include head.html -%}
   <body>
-  	
+    <input class="dark-mode-checkbox sr-only" id="dark-mode" type="checkbox">
+    <div class="theme-container grow">
+      <label class="dark-mode-label" for="dark-mode">
+      </label>
     {%- include header.html -%}
 
     <main class="page-content" aria-label="Content">
@@ -13,6 +16,17 @@
 
     {%- include footer.html -%}
 
-
+  </div>
   </body>
+  <script>
+  document.addEventListener('DOMContentLoaded', function () {
+  const checkbox = document.querySelector('.dark-mode-checkbox');
+
+  checkbox.checked = localStorage.getItem('darkMode') === 'true';
+
+  checkbox.addEventListener('change', function (event) {
+    localStorage.setItem('darkMode', event.currentTarget.checked);
+  });
+});
+</script>
 </html>
