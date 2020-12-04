@@ -5,6 +5,7 @@
 
     <ul class="post-list">
           {%- for post in posts -%}
+          {% if post.type != 'travaux' %}
       <article>
       <li>
   <div class="post-header">
@@ -49,6 +50,7 @@
 
       </li>
       	</article>
+      {% endif %}
       {%- endfor -%}
     </ul>
 

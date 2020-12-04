@@ -18,4 +18,4 @@ Les galets mous emprisonnés dans le filet, composés d'agar agar et d'eau, se s
 
 *Pêcher les fantômes* a été réalisée lors d'une résidence au Havre, organisée par Première Ligne, en compagnie des artistes Chloé Elmaleh, Ronan Lecreurer et Victor Baudin.
 
-La résidence a aussi été l'occasion d'une intervention sans titre avec Chloé Elmaleh et de lectures, notamment d'un texte intitulé *Avaler les cailloux*
+La résidence a aussi été l'occasion d'une intervention sans titre avec Chloé Elmaleh et de lectures, notamment d'un texte intitulé *Avaler les cailloux*.

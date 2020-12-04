@@ -9,7 +9,9 @@ medium: 'Récit'
 description: 'Actes Sud.'
 icone: '&#9707;'
 ---
-La Nuit sera belle est la dernière cristallisation de l'Hexeract, qui s'est transformé en roman à part entière aux éditions Actes Sud. On y parle entre autres de pêche, de pages blanches, de quête, de mouettes ou de goelands, de monolithe, de poisson-lune, de cuisine et même de dragons.
+<img class="photopost-pett" src="{{site.baseurl}}/imgs/lanuitserabelle.gif" onmouseover="this.src='{{site.baseurl}}/imgs/lanuitserabelle.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/lanuitserabelle.gif'" />
+
+La Nuit sera belle est la dernière cristallisation de l'Hexeract, qui s'est transformé en récit publié aux éditions Actes Sud. On y parle entre autres de pêche, de pages blanches, de quête, de mouettes ou de goelands, de monolithe, de poisson-lune, de cuisine et même de dragons.
 
 Le mot de l'éditeur :
 
