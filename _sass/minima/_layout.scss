@@ -249,19 +249,20 @@ border-top:var(--border);
 				}
 				li{
 				padding-left:20px;
+				display:inline-block;
 				}
-				a:hover{
+				h3{
+					display:inline-block;
+				}
+				li:hover{
 				text-shadow:var(--shadow);
-				}
-				h3:before{
-				content:'\2925 '
 				}
 			}
 		}
 		.travaux-droite{
 			overflow-y:scroll;
 			overflow-x:hidden;
-			max-height:89vh;
+			max-height:87vh;
 
 			article{
 			padding:0;

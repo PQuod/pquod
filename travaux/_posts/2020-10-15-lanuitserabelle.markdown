@@ -5,8 +5,9 @@ date: 2020-02-25 10:12:37 +0200
 tags: 01-la-quete-de-la-quete
 type: travaux
 annee: '2017'
-medium: 'Roman'
+medium: 'Récit'
 description: 'Actes Sud.'
+icone: '&#9707;'
 ---
 La Nuit sera belle est la dernière cristallisation de l'Hexeract, qui s'est transformé en roman à part entière aux éditions Actes Sud. On y parle entre autres de pêche, de pages blanches, de quête, de mouettes ou de goelands, de monolithe, de poisson-lune, de cuisine et même de dragons.
 

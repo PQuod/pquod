@@ -7,4 +7,5 @@ type: travaux
 annee: '2019'
 medium: 'Micro-editions'
 description: "formats et nombres d'exemplaires variables"
+icone: '&#9707; &#9707; &#9707;'
 ---

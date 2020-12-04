@@ -8,6 +8,7 @@ annee: '2019'
 medium: 'installation'
 description: "filet a crevettes, garcette, taquets, agar-agar"
 dimensions: 2mx2mx2m
+icone: '&#9635;'
 ---
 Constituée d'un filet à crevette suspendu à l'aide de garcettes et amarré à des taquets, cette pièce rappelle la pêche au carrelet pratiquée le long de l'Atlantique. Cependant l'installation est effectuée à l'intérieur même de la cabane et le filet devient lui-même un nouveau plafond, tendu à travers les 2m² de l’espace. Entre ses mailles on peut apercevoir des formes molles, dont la consistance et la couleur rappellent la méduse Aurélia (aussi appelée Méduse Lune, fréquente dans la Manche) mais dont la forme évoque un galet mou, en réponse aux nombreux galets qui ont envahi la plage du Havre durant les dernières décennies.
 

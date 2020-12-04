@@ -8,6 +8,7 @@ annee: '2017'
 medium: 'Installation'
 description: "Bois, papier, aimants, limaille de fer."
 dimensions: "115x80x120cm"
+icone: '&#9635;'
 ---
 <figcaption>Vue de l'exposition La Spéculaire aux Ateliers de la ville en bois. Arrière plan : Home TV de <a href="https://baptistefertillet.wixsite.com/site/">Baptiste Fertillet.</a></figcaption>
 <figure><img class="photopost" src="{{site.baseurl}}/imgs/moonersatz02.gif" onmouseover="this.src='{{site.baseurl}}/imgs/moonersatz02.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/moonersatz02.gif'" /></figure>
