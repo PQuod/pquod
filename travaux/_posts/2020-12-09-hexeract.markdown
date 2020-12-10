@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Hexeract & échafaudages"
+date: 2020-02-09 10:12:37 +0200
+tags: 01-la-quete-de-la-quete
+type: travaux
+annee: '2015'
+medium: 'Éditions'
+description: " impression jet d'encre sur papier couché 70g · couverture calque et papier cartonné"
+dimensions: 7 exemplaires
+icone: '&#9707; &#9707;'
+---
+*Hexeract* et *Échafaudages* sont deux éditions-étapes avant la cristallisation du [roman]({{site.baseurl}}/travaux/2020/02/25/lanuitserabelle.html).
+
+<figcaption>Hexeract, Photographie Bruno Gavard</figcaption>
+<img class="photopost" src="{{site.baseurl}}/imgs/hexeract01.gif" onmouseover="this.src='{{site.baseurl}}/imgs/hexeract01.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/hexeract01.gif'" />
+
+<figcaption>Hexeract, Photographie Bruno Gavard</figcaption>
+<img class="photopost" src="{{site.baseurl}}/imgs/hexeract03.gif" onmouseover="this.src='{{site.baseurl}}/imgs/hexeract03.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/hexeract03.gif'" />
+
+A + B + C sont dans un bateau. Ils passent la soirée dans l’appartement de C qui, de l’intérieur, a la forme d’une pagode renversée. Sous son plafond, on entend la mer.
+
+A + B + C boivent du thé, de la bière, du vin et du whisky mais chaque chose en son temps. Ils se parlent et se taisent. Ils font beaucoup plus que ce qu’ils croient et beaucoup moins que ce qu’ils disent.
+
+A est le faire, B est le vouloir faire, C est le non faire.
+
+A + B + C explorent l’oisiveté sous toutes ses formes, de la plus active à la plus passive. Ils chinent de l’espace et du temps. Ils essayent de soustraire leur existence à toute justification. Ils tentent d’échapper au but à tout prix. Ils cherchent la quatrième dimension, même s’ils savent qu’ils ne pourront qu’en envisager l’idée et ne seront jamais capables de la voir intégralement.
+
+A + B + C préparent une expédition. Ils partiront demain, ou jamais. Pour trouver l’interstice entre la surface et les choses, là où la temporalité se met entre parenthèse, où la potentialité se suffit à elle-même, où les choses n’ont plus besoin d’exister mais seulement d’être possibles, où les milieux sont légions, où les cheminements s’agencent et les quêtes sont dépouillées de leur but.
+
+A + B + C = 0
+
+A+ B + C = ∞
+
+*Échafaudages* est un coffret de 5 livrets qui documentent le processus de recherche et de travail qui a mené à *Hexeract*. [*Pour l'instant c'est provisoire*]({{site.baseurl}}/travaux/2020/02/09/provisoire.html) est la continuité numérique de ce travail de documentation.
+
+<img class="photopost" src="{{site.baseurl}}/imgs/echafaudage01.gif" onmouseover="this.src='{{site.baseurl}}/imgs/echafaudage01.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/echafaudage01.gif'" />
