@@ -31,8 +31,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-permalink: /pquod/:title/
-
 # Liste des catégories
 collections:
   category:
