@@ -5,7 +5,7 @@ layout: travaux
   <div class="post-header">
     <h2 class="post-title">{{ page.title | escape }}</h2>
     <p class="post-meta">
-        {{ page.medium }} &#8855; {{ page.description }} {% if page.dimensions != nil %} &#8855; {{ page.dimensions }} {% endif %} &#8855; {{ page.annee }}
+        {{ page.medium }} {% if page.description != nil %} &#8855; {{ page.description }} {% endif %} {% if page.dimensions != nil %} &#8855; {{ page.dimensions }} {% endif %} {% if page.annee != nil %}&#8855; {{ page.annee }}{% endif %}
     </p>
   </div>
 

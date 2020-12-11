@@ -117,3 +117,8 @@ font-family: var(--serif);
 figcaption{
 font-size:calc(var(--font-size)*0.5);
 }
+
+hr{
+  border-top:var(--border);
+  border-bottom:0;
+}

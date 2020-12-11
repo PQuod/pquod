@@ -1,0 +1,29 @@
+---
+layout: post
+title: "BDD"
+date: 2020-02-11 10:12:37 +0200
+tags: 01-∞lecture
+type: travaux
+medium: 'Installation'
+annee: '20xx'
+description: "affiches A3, rouleau de papier 300 cm x 20cm, 9 carnets A5, boîte, fiches bristol"
+icone: '&#9635;'
+---
+
+<figcaption>Exposition au FRAC Poitou-Charente, 2012. Photographies Richard Porteau.</figcaption>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/listes2.gif" onmouseover="this.src='{{site.baseurl}}/imgs/listes2.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/listes2.gif'" /></figure>
+
+*BDD* constitue un inventaire et un archivage des lectures, sous la forme de différentes listes de lecture et de carnets d’extraits qui recensent l’intégralité des livres lus depuis juillet 2008. Ces listes sont un descriptif objectif, souvent chronologique, des lectures.
+
+Chaque extrait issu des carnets est consigné sur des fiches bristol regroupées par mots-clefs. Entre système obsolète des fiches papiers des bibliothèque et les codes de base de la base de donnée numérique, *BDD* répertorie les citations des listes pour tenter de tisser un réseau d'hyperliens physiques.
+
+*BDD* est une base de donnée (pré?)post-internet, en constante évolution, entre processus et cristallisation. Agencée avec [*Nuancier*](nuancier) et [*Camaïeu*](camaieu), *BDD* adopte la forme de catalogue.
+
+<figcaption>Exposition au FRAC Poitou-Charente, 2012. Photographie gauche : Richard Porteau.</figcaption>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/listes1.gif" onmouseover="this.src='{{site.baseurl}}/imgs/listes1.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/listes1.gif'" /></figure>
+
+<figcaption>Coffret : Chloé Masson &middot; Photographies : Bruno Gavard.</figcaption>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/bdd01.gif" onmouseover="this.src='{{site.baseurl}}/imgs/bdd01.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/bdd01.gif'" /></figure>
+
+<figcaption>Coffret : Chloé Masson &middot; Photographies : Bruno Gavard.</figcaption>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/bdd02.gif" onmouseover="this.src='{{site.baseurl}}/imgs/bdd02.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/bdd02.gif'" /></figure>
