@@ -4,7 +4,6 @@ title: "Moonersatz"
 date: 2017-03-25 10:12:37 +0200
 tags: 02-le-bruit-des-etoiles
 type: travaux
-permalink: /pquod/:title/
 annee: '2017'
 medium: 'Installation'
 description: "Bois, papier, aimants, limaille de fer."
