@@ -301,6 +301,11 @@ border-top:var(--border);
 						color:--post-link-color;
 					}
 				}
+				li{
+					font-family:var(--serif);
+					padding-left:10px;
+					padding-right: 10px;
+				}
 				figcaption{
 					padding-left:10px;
 					font-size:calc(var(--font-size)*0.6);

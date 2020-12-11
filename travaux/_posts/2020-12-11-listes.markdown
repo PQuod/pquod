@@ -27,3 +27,6 @@ Chaque extrait issu des carnets est consigné sur des fiches bristol regroupées
 
 <figcaption>Coffret : Chloé Masson &middot; Photographies : Bruno Gavard.</figcaption>
 <figure><img class="photopost" src="{{site.baseurl}}/imgs/bdd02.gif" onmouseover="this.src='{{site.baseurl}}/imgs/bdd02.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/bdd02.gif'" /></figure>
+
+<figcaption>Exposition au FRAC Poitou-Charente, 2012. Photographie : Richard Porteau.</figcaption>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/bddensemble.gif" onmouseover="this.src='{{site.baseurl}}/imgs/bddensemble.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/bddensemble.gif'" /></figure>
