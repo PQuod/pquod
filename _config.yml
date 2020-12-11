@@ -31,6 +31,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
+
+parmalink: /:title/
+
 # Liste des catégories
 collections:
   category:
