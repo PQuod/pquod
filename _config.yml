@@ -32,7 +32,7 @@ plugins:
   - jekyll-feed
 
 
-parmalink: /:title/
+permalink: /:title/
 
 # Liste des catégories
 collections:
