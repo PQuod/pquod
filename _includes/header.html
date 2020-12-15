@@ -11,7 +11,7 @@
     {% if nav.text == 'Travaux' %}
     <h1><a {% if nav.url == page.url or page_type == 'travaux' %} class="active" {%endif%} href="{{ nav.url }}">{{ nav.text }}</a></h1>
     {% endif %}
-    {% if nav.text == 'Liens' %}
+    {% if nav.text == 'Listes' %}
     <h1><a {% if nav.url == page.url %} class="active" {%endif%} href="{{ nav.url }}">{{ nav.text }}</a></h1>
     {% endif %}
     {% endfor %}
