@@ -4,9 +4,9 @@
 - text: Travaux
   place: header
   url: /pquod/travaux/
-- text: Liens
+- text: Listes
   place: header
-  url: /pquod/liens/
+  url: /pquod/listes/
 - text: Tout
   place: droite
   url: /pquod
