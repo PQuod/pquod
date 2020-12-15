@@ -2,7 +2,7 @@
 layout: post
 title: "Hexeract & échafaudages"
 date: 2020-02-09 10:12:37 +0200
-tags: 02-la-quete-de-la-quete
+tags: 03-la-quete-de-la-quete
 type: travaux
 medium: "Hexeract et Échafaudages sont deux éditions-étapes avant la cristallisation du roman, Pour l'instant c'est provisoire regroupe ressources et expérimentations sur un site internet."
 icone: '&#9707; &#9707;  ◳'

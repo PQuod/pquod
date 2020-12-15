@@ -1,0 +1,60 @@
+---
+layout: post
+title: "Elias"
+date: 2020-02-25 10:12:37 +0200
+tags: '01-elias'
+type: travaux
+medium: 'Avec Baptiste Fertillet ⊗ Projection vidéo performée'
+dimensions: 'durée variable'
+annee: '2018'
+icone: '&#x2BBD;'
+---
+<figcaption>Performance lors *Vidéo bar*, organisé par l'Oeil d'Oodaaq pour *Culture Bar-bars*, le mercredi 21 novembre 2018.</figcaption>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/elias09.gif" onmouseover="this.src='{{site.baseurl}}/imgs/elias09.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/elias09.gif'" /></figure>
+
+*Mougharamat Elias Mabrouk* (Les Aventures d’Elias Mabrouk) est le premier film réalisé au Liban. Il est tourné à Beirut en 1929 par le réalisateur italien Giordano Pidutti, à l’aide de subventions égyptiennes. Il raconte l’histoire d’un Libanais, ancien chauffeur de taxi, de retour à Beirut après un long séjour en Amérique. Ce film, finalement situé au croisement de plusieurs cultures, a disparu dans les années 70, le peu de copies existantes ont été détruites durant une série d’incendies. C’est un film que presque plus personne n’a vu, mais dont beaucoup se souviennent. En moins de cent ans, ayant perdu toute matérialité, il a acquis un statut de véritable légende orale.
+
+Elias est une installation alliant texte et vidéo qui explore le statut de ce film disparu et pourtant demeuré l’un des symboles de la culture libanaise. Deux projections d'images de déambulation, tournées lors d’un séjour à Beirut sont projetées en VDjing par Baptiste Fertillet, tandis qu'un texte reprenant la voix du film détruit, *Elias* est performé, tentant de redonner corps à ce fantôme culturel, à travers l’histoire de sa disparition. Le film, traité comme un personnage au sein du texte, s’interroge à la première personne sur son statut, sur son rôle et sur sa place dans l’histoire. Il essaye de se remettre en phase avec une ville qu’il ne connaît plus, de recoller les morceaux de sa mémoire fragmentaire. Trois histoires s’entrelacent : celle du personnage d’Elias Mabrouk, sujet du film original ; celle du film luimême et de ses souvenirs en lambeaux ; et celle de l’artiste étranger qui part à la recherche du film et tente de relater son histoire. Ces trois regards se superposent pour n’en former plus qu’un seul, aux différentes couches de résonnance : celui qui s’expose au visiteur lorsqu’il entre dans l’espace de l’installation.
+
+Comme Elias qui tente de retrouver sa ville natale en errant dans les rues de Beirut, la caméra déambule, suivant des gens, des dos, des pas, qui n’ont aucune destination apparente, filmant à travers les vitres des voitures, se déplaçant sans cesse à travers les paysages d’une ville qu’elle ne connaît ni ne reconnaît pas. Le texte, lui aussi, chemine de lambeaux de souvenirs en miettes de mémoire, tentant de remonter le fil d’une histoire détruite, essayant alors de trouver une nouvelle identité après la disparition, traversant d’un même fil les différentes voix qui la composent.
+
+<figcaption>Captures d'écran</figcaption>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/elias04.gif" onmouseover="this.src='{{site.baseurl}}/imgs/elias04.png'" onmouseout="this.src='{{site.baseurl}}/imgs/elias04.gif'" /></figure>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/elias01.gif" onmouseover="this.src='{{site.baseurl}}/imgs/elias01.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/elias01.gif'" /></figure>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/elias02.gif" onmouseover="this.src='{{site.baseurl}}/imgs/elias02.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/elias02.gif'" /></figure>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/elias05.gif" onmouseover="this.src='{{site.baseurl}}/imgs/elias05.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/elias05.gif'" /></figure>
+
+*Elias, extrait (texte)*
+
+Je vois la nuque de mon père. Je fixe un point invisible. Le point sur la nuque de mon père.
+Je vois la nuque de mon père. Autour, je vois la ville natale. Il n’y a pas de ville sans nuque. Il n’y a pas de nuque sans ville.
+C’est sa nuque que je connais le mieux. C’est sa nuque que je vois, quand je vois mon père. Je ne vois pas son visage. De mon père, je n’ai connu que le dos. Qu’y a-t-il de l’autre côté de la nuque ?
+
+Ses yeux. De quelle couleur sont les yeux de mon père ? Je ne sais plus quels yeux lui appartiennent. Je ne sais plus à quels pères appartiennent ces yeux.
+
+Le point. Je reviens toujours à ce point. Entre les deux plis de son cou. Entre les deux plis de sa nuque.
+
+J’ai mal au cœur. Fixer le point, pour calmer la nausée. La voiture me rend malade. La voiture m’a toujours rendu malade. L’odeur du cuir chaud me rend malade. L’odeur de l’essence. Le flux de la ville. Le mouvement, toujours le mouvement. Le mouvement ne s’arrête jamais. À flux tendu. J’avance, j’avance toujours. Même quand la nuque aura disparu, je continuerai d’avancer. Même quand le point se sera éteint, le mouvement ne s’arrêtera pas. Même quand j’aurai quitté la ville natale, le flux défilera. Infini flux. La nausée. Je suis barbouillé embrouillé. La succession d’images. Clac clac clac. Je suis embrouillé barbouillé. Le défilé. Clac. Je ne suis qu’une succession d’images. La nausée me rend flou.
+
+Le point. Le point est fixe. Je fixe le point. Le point arrête la nausée. Le point masque le flux.
+Qu’y a-t-il autour du point ? Les plis de la nuque. Il faut que je me détache du point. Il faut que je me détache du point pour retrouver mon père.
+
+Rétroviseur. Le haut de son front dans le rétroviseur. Jamais ses yeux. Jamais. Je ne vois pas ses yeux. Je vois le haut de son front. Trois rides froncées par le soleil. Les trois rides de son front. Les deux plis de sa nuque. Jamais ses yeux. Le point. Devant ces yeux, il a la caméra. Devant ses yeux, il y a un objectif. Une plaque de verre entre lui et moi.
+
+Dehors, le flux. L’enfilade des lumières. Halo orange sur fond noir. Mouvement rectiligne.
+D’autres fois, il fait jour. Tout est trop blanc. On n’y voit rien. Poussière et chaleur. Ça vibre. Les images se jettent contre la fenêtre. Mirage. Des mots. Des mots défilent. Rouges sur fond blanc, bleus sur fond rouge. Ils défilent, ils clignotent, lumières sur fond noir. Ils m’invitent, ils m’appellent. Je ne les comprends pas. Je ne les comprends plus.
+Autour, d’autres voitures. Autour, d’autres personnes. Autour, d’autres mouvement. En décalé. En parallèle. Ils me suivent, m’accompagnent, mais jamais je ne peux les rattraper, jamais je ne peux les rejoindre. Jamais je ne peux faire partie de ces autres mouvements.
+
+Envie de pénombre. Envie de fraîcheur. Mais toujours, contre moi, la chaleur brûlante du cuir. Toujours, dans mon nez, l’odeur écœurante de l’essence. Toujours, le flux, en mouvement rectiligne. De droite à gauche. De droite à gauche. On va où ? On va toujours, mais on va où ? Ça défile, en douze images / seconde. Ça défile, clac, clac, clac. Ça s’enroule, mais on va où ? Le flux n’a pas de fin. Les images ont brûlé. La bobine est blanche. Plus personne ne connaît la fin.
+Mouvement rectiligne. Clac clac clac. Cadrage fenêtre. Toujours le même.
+
+Le point.
+Le point sur la nuque.
+Je fixe le point. Le point me fixe.
+J’ai perdu le lambeau. J’ai laissé partir le souvenir. Il a filé.
+Noir. Vite, une autre prise.
+Un autre lambeau.
+
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/elias06.gif" onmouseover="this.src='{{site.baseurl}}/imgs/elias06.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/elias06.gif'" /></figure>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/elias07.gif" onmouseover="this.src='{{site.baseurl}}/imgs/elias07.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/elias07.gif'" /></figure>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/elias08.gif" onmouseover="this.src='{{site.baseurl}}/imgs/elias08.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/elias08.gif'" /></figure>

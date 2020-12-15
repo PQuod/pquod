@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'IA(man)AI'
+date: 2020-02-25 10:12:37 +0200
+tags: '01-iamanai'
+type: travaux
+medium: 'Avec Alix Desaubliaux'
+dimensions: 'jeu vidéo'
+annee: '20XX'
+---
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/iamanai03.gif" onmouseover="this.src='{{site.baseurl}}/imgs/iamanai03.png'" onmouseout="this.src='{{site.baseurl}}/imgs/iamanai03.gif'" /></figure>
+
+*IA (MAN) AI* est un jeu vidéo expérimental, à la première personne, qui se déroule en huis-clos, au sein d’un ordinateur. Il met en scène une discussion entre une Intelligence Artificielle et son Créateur pendant le développement psychologique de cette dernière.
+
+Le joueur y incarne l’IA et communique via un terminal, d’abord seul élément concret du décor. L’environnement est vide dans un premier temps, et évolue de manière onirique, abstraite et géométrique au fur et à mesure du développement de l’imagination et de l’esprit de l’IA. Il se complexifie petit à petit, au fil des séances de jeu et se déploie dans une architecture qui se veut le reflet de l’éclosion progressive de la pensée et de la conscience de l’IA. D’abord prisonnier entre quatre murs, le joueur pourra ainsi déambuler dans la représentation matérielle du cerveau de l’entité qu’il incarne. L’espace offre de plus en plus de possibilités d’interaction, devient manipulable et chacune de ces manipulations est le symbole d’une nouvelle piste de réflexion développée par le joueur-IA.
+
+Le Créateur est supposé avoir développé cette IA dans le but de la rendre capable de faire des choix raisonnés, donc émotionnels, plutôt que rationnels et scriptés, il s’adresse donc à elle en tant qu’entité sensible et teste sa part d’humanité, le joueur ne sait pas, en premier lieu, qu’il incarne un programme informatique.
+
+Ce jeu propose une réflexion autour de plusieurs problématiques liées au rapport homme-machine, à l’anthropocentrisme de la technologie actuelle, aux enjeux du développement des intelligences artificielles, et des clichés narratifs et situationnels du jeu vidéo. Il renverse la manière de jouer, en plaçant le joueur à la place du programme et en lui proposant un développement progressif de gameplay (d’un choix binaire, à un dialogue multiple à conséquences directes sur l’histoire, puis à l’arrivée d’une voix-off et d’un système narratif et cinématique). La question du développement psychologique, de la découverte d’un cycle émotionnel et de l’élaboration de la relation entre l’IA/joueur et son créateur humain/scripté est également au centre du scénario.
+
+Il s’agit d’une expérience narrative plutôt que d’un jeu d’action.
+
+<figcaption>Captures d'écran en jeu.</figcaption>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/iamanai01.gif" onmouseover="this.src='{{site.baseurl}}/imgs/iamanai01.png'" onmouseout="this.src='{{site.baseurl}}/imgs/iamanai01.gif'" /></figure>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/iamanai02.gif" onmouseover="this.src='{{site.baseurl}}/imgs/iamanai02.png'" onmouseout="this.src='{{site.baseurl}}/imgs/iamanai02.gif'" /></figure>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/iamanai05.gif" onmouseover="this.src='{{site.baseurl}}/imgs/iamanai05.png'" onmouseout="this.src='{{site.baseurl}}/imgs/iamanai05.gif'" /></figure>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/iamanai07.gif" onmouseover="this.src='{{site.baseurl}}/imgs/iamanai07.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/iamanai07.gif'" /></figure>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/iamanai08.gif" onmouseover="this.src='{{site.baseurl}}/imgs/iamanai08.png'" onmouseout="this.src='{{site.baseurl}}/imgs/iamanai08.gif'" /></figure>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/iamanai06.gif" onmouseover="this.src='{{site.baseurl}}/imgs/iamanai06.png'" onmouseout="this.src='{{site.baseurl}}/imgs/iamanai06.gif'" /></figure>

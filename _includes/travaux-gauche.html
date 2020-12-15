@@ -4,15 +4,41 @@
   {% assign t = tag | first %}
   <div class="piste">
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
+        {% if tag_name == '05-le-bruit-des-etoiles' or tag_name == '03-la-quete-de-la-quete' or tag_name == '01-∞lecture' %}<span class="smile big-s">&#9786;</span>
         <h2>{{ t | split: '-' | shift | join: ' '}}</h2>
-        {% for post in site.tags.[tag_name] %}
-        {% assign page_title = page.title | downcase%}
-        {% assign post_title = post.title | downcase%}
-        <li class="{% if page_title == post_title %}active{% endif %}"><span class="i-legend">
-          {{ post.icone }}
-          </span>
-          <h3><a href="{{ post.url }}">{{ post.title }}</a></h3></li>
-        {% endfor %}
+      {% for post in site.tags.[tag_name] %}
+      {% assign page_title = page.title | downcase%}
+      {% assign post_title = post.title | downcase%}
+      <li class="{% if page_title == post_title %}active{% endif %}"><span class="i-legend">
+        {{ post.icone }}
+        </span>
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3></li>
+      {% endfor %}
+          {% elsif  tag_name == '04-wman' %}
+          {% for post in site.tags.[tag_name] %}
+          {% assign page_title = page.title | downcase%}
+          {% assign post_title = post.title | downcase%}
+          <span class="smile big-s">&#9786;&#9786;&#9786;</span><h2 class="{% if page_title == post_title %}active{% endif %}"><a href="{% post_url /travaux/2020-12-15-wman %}" class="gros-lien">{{ t | split: '-' | shift | join: ' '}}</a></h2>
+          {% endfor %}
+          {% elsif tag_name == '02-poesie-maxi' %}
+          {% for post in site.tags.[tag_name] %}
+          {% assign page_title = page.title | downcase%}
+          {% assign post_title = post.title | downcase%}
+          <span class="smile big-s">&#9786;&#9786;&#9786;</span><h2 class="{% if page_title == post_title %}active{% endif %}"><a href="{% post_url /travaux/2020-12-15-poesie-maxi %}" class="gros-lien">{{ t | split: '-' | shift | join: ' '}}</a></h2>
+          {% endfor %}
+          {% elsif tag_name == '01-elias' %}
+          {% for post in site.tags.[tag_name] %}
+          {% assign page_title = page.title | downcase%}
+          {% assign post_title = post.title | downcase%}
+          <span class="smile big-s">&#9786;&#9786;</span><h2 class="{% if page_title == post_title %}active{% endif %}"><a href="{% post_url /travaux/2020-12-15-elias %}" class="gros-lien">{{ t | split: '-' | shift | join: ' '}}</a></h2>
+          {% endfor %}
+          {% elsif tag_name == '01-iamanai' %}
+          {% for post in site.tags.[tag_name] %}
+          {% assign page_title = page.title | downcase%}
+          {% assign post_title = post.title | downcase%}
+          <span class="smile big-s">&#9786;&#9786;</span><h2 class="{% if page_title == post_title %}active{% endif %}"><a href="{% post_url /travaux/2020-12-15-iamanai %}" class="gros-lien">{{ t | split: '-' | shift | join: ' '}}</a></h2>
+          {% endfor %}
+          {% endif %}
           </div>
   {% endfor %}
 
