@@ -4,15 +4,13 @@ title: "Hexeract & échafaudages"
 date: 2020-02-09 10:12:37 +0200
 tags: 03-la-quete-de-la-quete
 type: travaux
-medium: "Hexeract et Échafaudages sont deux éditions-étapes avant la cristallisation du roman, Pour l'instant c'est provisoire regroupe ressources et expérimentations sur un site internet."
+annee: '2015'
+medium: 'Édition'
+description: "impression jet d'encre sur papier couché 70g · couverture calque et papier cartonné"
+dimensions: "7 exemplaires"
 icone: '&#9707; &#9707;  ◳'
+alt: 'hexeract'
 ---
-<figcaption>Hexeract, Photographie Bruno Gavard</figcaption>
-<figure><img class="photopost" src="{{site.baseurl}}/imgs/hexeract01.gif" onmouseover="this.src='{{site.baseurl}}/imgs/hexeract01.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/hexeract01.gif'" /></figure>
-
-{:.post-inter-header}
-<span class="post-inter-title">Hexeract</span><br><span class="post-meta">Édition ⊗ impression jet d'encre sur papier couché 70g · couverture calque et papier cartonné ⊗ 7 exemplaires ⊗ 2015<span>
-
 *Hexeract* compile, à travers des extraits de texte, des schémas et un index toutes les images à aborder dans le [roman](/lanuitserabelle/). Il préfigure l'espace entre les dimensions.
 
 A + B + C sont dans un bateau. Ils passent la soirée dans l’appartement de C qui, de l’intérieur, a la forme d’une pagode renversée. Sous son plafond, on entend la mer.
@@ -30,26 +28,31 @@ A + B + C = 0
 A+ B + C = ∞
 
 <figcaption>Hexeract, Photographie Bruno Gavard</figcaption>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/hexeract01.gif" onmouseover="this.src='{{site.baseurl}}/imgs/hexeract01.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/hexeract01.gif'" /></figure>
+
 <figure><img class="photopost" src="{{site.baseurl}}/imgs/hexeract03.gif" onmouseover="this.src='{{site.baseurl}}/imgs/hexeract03.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/hexeract03.gif'" /></figure>
 
----
+
 
 {:.post-inter-header}
-<span class="post-inter-title">Echafaudages</span><br>
+<span class="post-inter-title">Échafaudages</span><br>
 <span class="post-meta">Édition ⊗ 7 livrets impression jet d'encre · boîtier cartonné ⊗ 7 exemplaires ⊗ 2015</span>
 
-<figure><img class="photopost" src="{{site.baseurl}}/imgs/echafaudage01.gif" onmouseover="this.src='{{site.baseurl}}/imgs/echafaudage01.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/echafaudage01.gif'" /></figure>
 
 *Échafaudages* est un coffret de 7 livrets qui documentent le processus de recherche et de travail qui a mené à *Hexeract*. Il y confronte les sources, les esquisses et des vues d'atelier lors du travail au long court de l'écriture du manuscrit.
 
----
+
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/echafaudage01.gif" onmouseover="this.src='{{site.baseurl}}/imgs/echafaudage01.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/echafaudage01.gif'" /></figure>
+
+
 
 {:.post-inter-header}
 <span class="post-inter-title">Pour l'instant c'est provisoire</span><br>
 <span class="post-meta">Site web ⊗ 2015-2017</span>
 
-<figure><img class="photopost" src="{{site.baseurl}}/imgs/pourlinstant01.gif" onmouseover="this.src='{{site.baseurl}}/imgs/pourlinstant01.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/pourlinstant01.gif'" /></figure>
 
 À la fois documentation et outil de recherche, *Pour l'instant, c'est provisoire* représente le processus de travail, le cheminement, toujours mouvant, qui a mené à [*La Nuit sera belle*](/lanuitserabelle/). Composé de deux pans, *Ailleurs* et *Ici*, il met en regard les ressources extérieures sur lequel le texte s'est appuyé et les expérimentations personnelles qui ont parsemé le cheminement du roman.
 
 Bien qu'il ne soit plus actualisé, le site est toujours visible [ici](http://luciedesaubliaux.fr/echafaudage/).
+
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/pourlinstant01.gif" onmouseover="this.src='{{site.baseurl}}/imgs/pourlinstant01.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/pourlinstant01.gif'" /></figure>

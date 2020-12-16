@@ -5,7 +5,7 @@ tags: '02-poesie-maxi'
 type: travaux
 site: 'https://poesiemaxi.hotglue.me/'
 sitetitle: 'poesiemaxi.hotglue.me'
-medium: 'avec Charlotte Beltzung'
+medium: 'avec <a href="https://charlottebeltzung.com/">Charlotte Beltzung</a>'
 dimensions: 'fondé en 2020'
 title: 'Poésie Maxi'
 ---
@@ -15,18 +15,15 @@ Elle est envoyée chaque mois dans la boîte aux lettres des abonné·e·s.
 Chaque numéro présente différents maxi-types de poésie
 et plusieurs auteur·ice·s sont invité·e·s à y contribuer.
 
-NUMÉROS PASSÉS :
-
-**Saison 01** :
+- NUMÉROS PASSÉS :
+- **Saison 01** :
 - Février : Poésie Maxi Rougeâtre
 - Mai : Poésie Maxi Dégueulasse
 - Juin : Poésie Maxi Moelleuse
 - Juillet : Poésie Maxi Limoneuse
-
-**Saison 02** :
+- **Saison 02** :
 - Octobre : Poésie Maxi Ébouriffante
-
-**LE TUR-FU** :
+- **LE TUR-FU** :
 - Poésie Maxi Farineuse, Ectoplasmique et Moléculaire débarquent bientôt !
 
 Pour en savoir plus, c'est sur [le site de poesie maxi](https://poesiemaxi.hotglue.me/)

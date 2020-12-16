@@ -4,11 +4,10 @@ title: 'IA(man)AI'
 date: 2020-02-25 10:12:37 +0200
 tags: '01-iamanai'
 type: travaux
-medium: 'Avec Alix Desaubliaux'
+medium: 'Avec <a href="https://alixdesaubliaux.fr">Alix Desaubliaux</a>'
 dimensions: 'jeu vidéo'
 annee: '20XX'
 ---
-<figure><img class="photopost" src="{{site.baseurl}}/imgs/iamanai03.gif" onmouseover="this.src='{{site.baseurl}}/imgs/iamanai03.png'" onmouseout="this.src='{{site.baseurl}}/imgs/iamanai03.gif'" /></figure>
 
 *IA (MAN) AI* est un jeu vidéo expérimental, à la première personne, qui se déroule en huis-clos, au sein d’un ordinateur. Il met en scène une discussion entre une Intelligence Artificielle et son Créateur pendant le développement psychologique de cette dernière.
 
@@ -20,7 +19,9 @@ Ce jeu propose une réflexion autour de plusieurs problématiques liées au rapp
 
 Il s’agit d’une expérience narrative plutôt que d’un jeu d’action.
 
+
 <figcaption>Captures d'écran en jeu.</figcaption>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/iamanai03.gif" onmouseover="this.src='{{site.baseurl}}/imgs/iamanai03.png'" onmouseout="this.src='{{site.baseurl}}/imgs/iamanai03.gif'" /></figure>
 <figure><img class="photopost" src="{{site.baseurl}}/imgs/iamanai01.gif" onmouseover="this.src='{{site.baseurl}}/imgs/iamanai01.png'" onmouseout="this.src='{{site.baseurl}}/imgs/iamanai01.gif'" /></figure>
 <figure><img class="photopost" src="{{site.baseurl}}/imgs/iamanai02.gif" onmouseover="this.src='{{site.baseurl}}/imgs/iamanai02.png'" onmouseout="this.src='{{site.baseurl}}/imgs/iamanai02.gif'" /></figure>
 <figure><img class="photopost" src="{{site.baseurl}}/imgs/iamanai05.gif" onmouseover="this.src='{{site.baseurl}}/imgs/iamanai05.png'" onmouseout="this.src='{{site.baseurl}}/imgs/iamanai05.gif'" /></figure>

@@ -4,26 +4,26 @@ title: "Elias"
 date: 2020-02-25 10:12:37 +0200
 tags: '01-elias'
 type: travaux
-medium: 'Avec Baptiste Fertillet ⊗ Projection vidéo performée'
+medium: 'Avec <a href="https://baptistefertillet.wixsite.com/site">Baptiste Fertillet</a> ⊗ Projection vidéo performée'
 dimensions: 'durée variable'
 annee: '2018'
 icone: '&#x2BBD;'
 ---
-<figcaption>Performance lors *Vidéo bar*, organisé par l'Oeil d'Oodaaq pour *Culture Bar-bars*, le mercredi 21 novembre 2018.</figcaption>
-<figure><img class="photopost" src="{{site.baseurl}}/imgs/elias09.gif" onmouseover="this.src='{{site.baseurl}}/imgs/elias09.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/elias09.gif'" /></figure>
-
 *Mougharamat Elias Mabrouk* (Les Aventures d’Elias Mabrouk) est le premier film réalisé au Liban. Il est tourné à Beirut en 1929 par le réalisateur italien Giordano Pidutti, à l’aide de subventions égyptiennes. Il raconte l’histoire d’un Libanais, ancien chauffeur de taxi, de retour à Beirut après un long séjour en Amérique. Ce film, finalement situé au croisement de plusieurs cultures, a disparu dans les années 70, le peu de copies existantes ont été détruites durant une série d’incendies. C’est un film que presque plus personne n’a vu, mais dont beaucoup se souviennent. En moins de cent ans, ayant perdu toute matérialité, il a acquis un statut de véritable légende orale.
 
 Elias est une installation alliant texte et vidéo qui explore le statut de ce film disparu et pourtant demeuré l’un des symboles de la culture libanaise. Deux projections d'images de déambulation, tournées lors d’un séjour à Beirut sont projetées en VDjing par Baptiste Fertillet, tandis qu'un texte reprenant la voix du film détruit, *Elias* est performé, tentant de redonner corps à ce fantôme culturel, à travers l’histoire de sa disparition. Le film, traité comme un personnage au sein du texte, s’interroge à la première personne sur son statut, sur son rôle et sur sa place dans l’histoire. Il essaye de se remettre en phase avec une ville qu’il ne connaît plus, de recoller les morceaux de sa mémoire fragmentaire. Trois histoires s’entrelacent : celle du personnage d’Elias Mabrouk, sujet du film original ; celle du film luimême et de ses souvenirs en lambeaux ; et celle de l’artiste étranger qui part à la recherche du film et tente de relater son histoire. Ces trois regards se superposent pour n’en former plus qu’un seul, aux différentes couches de résonnance : celui qui s’expose au visiteur lorsqu’il entre dans l’espace de l’installation.
 
 Comme Elias qui tente de retrouver sa ville natale en errant dans les rues de Beirut, la caméra déambule, suivant des gens, des dos, des pas, qui n’ont aucune destination apparente, filmant à travers les vitres des voitures, se déplaçant sans cesse à travers les paysages d’une ville qu’elle ne connaît ni ne reconnaît pas. Le texte, lui aussi, chemine de lambeaux de souvenirs en miettes de mémoire, tentant de remonter le fil d’une histoire détruite, essayant alors de trouver une nouvelle identité après la disparition, traversant d’un même fil les différentes voix qui la composent.
 
+<figcaption>Performance lors *Vidéo bar*, organisé par l'Oeil d'Oodaaq pour *Culture Bar-bars*, le mercredi 21 novembre 2018.</figcaption>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/elias09.gif" onmouseover="this.src='{{site.baseurl}}/imgs/elias09.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/elias09.gif'" /></figure>
+
 <figcaption>Captures d'écran</figcaption>
 <figure><img class="photopost" src="{{site.baseurl}}/imgs/elias04.gif" onmouseover="this.src='{{site.baseurl}}/imgs/elias04.png'" onmouseout="this.src='{{site.baseurl}}/imgs/elias04.gif'" /></figure>
 <figure><img class="photopost" src="{{site.baseurl}}/imgs/elias01.gif" onmouseover="this.src='{{site.baseurl}}/imgs/elias01.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/elias01.gif'" /></figure>
 <figure><img class="photopost" src="{{site.baseurl}}/imgs/elias02.gif" onmouseover="this.src='{{site.baseurl}}/imgs/elias02.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/elias02.gif'" /></figure>
 <figure><img class="photopost" src="{{site.baseurl}}/imgs/elias05.gif" onmouseover="this.src='{{site.baseurl}}/imgs/elias05.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/elias05.gif'" /></figure>
-
+<br><br>
 *Elias, extrait (texte)*
 
 Je vois la nuque de mon père. Je fixe un point invisible. Le point sur la nuque de mon père.

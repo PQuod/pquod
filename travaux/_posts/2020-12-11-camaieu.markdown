@@ -10,14 +10,14 @@ description: 'table portant 90 livres'
 dimensions: 90 cm x 203,5 cm x 22 cm
 icone: '&#9635;'
 ---
-<figcaption>Exposition au FRAC Poitou-Charente, 2012. Photographies Richard Porteau.</figcaption>
-<figure><img class="photopost" src="{{site.baseurl}}/imgs/camaieu01.gif" onmouseover="this.src='{{site.baseurl}}/imgs/camaieu01.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/camaieu01.gif'" /></figure>
-
 Le travail de lecture comme organisation : *Camaïeu* est une collection. Les livres sont dépouillés de leur couverture et des annexes ajoutées par l’éditeur. La lecture est représentée à même le livre, grâce à des annotations au début et en fin de livre, ainsi que sur le dos. La période et le lieu de lecture, une bibliographie, l’élaboration d’un système de légendes et d’indexation permettent d’établir des chronologies entre les livres.
 
 Des liens naissent pour un essai de cartographie de la lecture.
 Les livres s’ouvrent sur des bifurcations.
 Les liens qui les unissent ne sont pas encore connectés, suggérés mais non matérialisés.
+
+<figcaption>Exposition au FRAC Poitou-Charente, 2012. Photographies Richard Porteau.</figcaption>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/camaieu01.gif" onmouseover="this.src='{{site.baseurl}}/imgs/camaieu01.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/camaieu01.gif'" /></figure>
 
 <figcaption>Exposition au FRAC Poitou-Charente, 2012. Photographies Richard Porteau.</figcaption>
 <figure><img class="photopost" src="{{site.baseurl}}/imgs/camaieu02.gif" onmouseover="this.src='{{site.baseurl}}/imgs/camaieu02.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/camaieu02.gif'" /></figure>

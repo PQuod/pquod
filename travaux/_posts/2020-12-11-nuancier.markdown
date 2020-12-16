@@ -4,15 +4,12 @@ title: "Nuancier"
 date: 2020-02-11 10:12:37 +0200
 tags: 01-∞lecture
 type: travaux
-medium: 'Installation & leporello'
+annee: '2012'
+medium: 'Installation'
+dimensions: '164 volumes en bois (13 cm x 22 cm), acrylique ⊗ 2,5m x 6m'
 icone: '&#9635; &#9707;'
+alt: 'Constellation'
 ---
-
-<figcaption>Exposition au FRAC Poitou-Charente, 2012. Photographies Richard Porteau.</figcaption>
-<figure><img class="photopost" src="{{site.baseurl}}/imgs/constellation01.gif" onmouseover="this.src='{{site.baseurl}}/imgs/constellation01.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/constellation01.gif'" /></figure>
-
-{:.post-inter-header}
-<span class="post-inter-title">Constellation</span><br><span class="post-meta">Installation & leporello ⊗ 164 volumes en bois (13 cm x 22 cm), acrylique ⊗ 2,5m x 6m ⊗ 2012-2013</span>
 
 164 volumes de bois sont accrochés contre un mur blanc, chacun porte une couleur singulière, synthèse sensible du souvenir du livre. *Constellation* est une représentation visuelle et spatiale des alliances qui se créent entre les livres, un diagramme coloré des associations qui unissent les ouvrages et qui refuse le choix et les limites la catégorisation, l'anthologie thématique, et tente, ainsi que la nommait Aby Warburg, une *kompatibilität* : une expérience par association.
 
@@ -21,20 +18,22 @@ L’agencement des livres est un jardin aux sentiers qui bifurquent. Chaque livr
 *Constellation* est un état des lieux fait à un moment donné, l’étape d’une réflexion en constante évolution, qui se bâtit et se transforme grâce à chaque nouvelle lecture.
 
 *« Qu’est-ce qu’un agencement ? C’est une multiplicité qui comporte beaucoup de termes hétérogènes, et qui établit des liaisons, des relations entre eux, à travers des âges, des sexes, des règnes – des natures différentes. Aussi la seule unité de l’agencement est de co-fonctionnement : c’est une symbiose, une « sympathie ». Ce qui est important, ce ne sont jamais les filiations, mais les alliances et les mariages ; ce en sont pas les hérédités mais les contagions, les épidémies, les vents. »*
-(Gilles Deleuze et Claire Parnet, Dialogues, Paris, Flammarion, Coll. « Champs », 2005, p. 47.)
+(Gilles Deleuze et Claire Parnet, *Dialogues*, Paris, Flammarion, Coll. « Champs », 2005, p. 47.)
 
+<figcaption>Exposition au FRAC Poitou-Charente, 2012. Photographies Richard Porteau.</figcaption>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/constellation01.gif" onmouseover="this.src='{{site.baseurl}}/imgs/constellation01.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/constellation01.gif'" /></figure>
 <figcaption>Exposition au FRAC Poitou-Charente, 2012. Photographies Richard Porteau. En arrière plan : <a href="/camaieu/">Camaïeu</a></figcaption>
 <figure><img class="photopost" src="{{site.baseurl}}/imgs/constellation02.gif" onmouseover="this.src='{{site.baseurl}}/imgs/constellation02.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/constellation02.gif'" /></figure>
 <figcaption>Exposition au FRAC Poitou-Charente, 2012. Photographies Richard Porteau.</figcaption>
 <figure><img class="photopost" src="{{site.baseurl}}/imgs/constellation03.gif" onmouseover="this.src='{{site.baseurl}}/imgs/constellation03.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/constellation03.gif'" /></figure>
 
-<hr>
+
 
 {:.post-inter-header}
 <span class="post-inter-title">Noir Onyx et blanc ivoire</span><br>
 <span class="post-meta">
 Leporello ⊗ échantillons de laque et impression laser, papier couché blanc 240g ⊗ 20x37cm ⊗ 10 exemplaires.</span>
 
-<figure><img class="photopost" src="{{site.baseurl}}/imgs/leporello.gif" onmouseover="this.src='{{site.baseurl}}/imgs/leporello.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/leporello.gif'" /></figure>
-
 *Noir Onyx - Blanc Ivoire* est un top 32 personnel de littérature, résumé par souvenir synesthésique, à emmener chez son libraire pour pouvoir y choisir ses livres comme son papier-peint.
+
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/leporello.gif" onmouseover="this.src='{{site.baseurl}}/imgs/leporello.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/leporello.gif'" /></figure>

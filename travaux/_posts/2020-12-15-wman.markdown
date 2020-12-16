@@ -5,7 +5,7 @@ tags: '04-wman'
 type: travaux
 site: 'http://wman.monster'
 sitetitle: 'wman.monster'
-medium: 'avec Arthur Debert, Alix Desaubliaux, Valentin Godard, Léo Gouhier & Carin Klonowski'
+medium: 'avec <a href="http://www.arthurdebert.fr/">Arthur Debert</a>, <a href="https://alixdesaubliaux.fr">Alix Desaubliaux</a>, <a href="https://mauricegodard.fr/">Valentin Godard</a>, <a href="https://mrsumima.tumblr.com/">Léo Gouhier</a> & <a href="https://carineklonowski.net/">Carin Klonowski</a>'
 dimensions: 'fondé en 2019'
 title: 'wman'
 ---
