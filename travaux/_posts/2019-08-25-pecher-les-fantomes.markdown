@@ -18,4 +18,13 @@ Les galets mous emprisonnés dans le filet, composés d'agar agar et d'eau, se s
 
 *Pêcher les fantômes* a été réalisée lors d'une résidence au Havre, organisée par Première Ligne, en compagnie des artistes Chloé Elmaleh, Ronan Lecreurer et Victor Baudin.
 
-La résidence a aussi été l'occasion d'une intervention sans titre avec Chloé Elmaleh et de lectures, notamment d'un texte intitulé *Avaler les cailloux*.
+La résidence a aussi été l'occasion d'une intervention sans titre avec Chloé Elmaleh et de lectures, notamment d'une harangue intitulée *Avaler les cailloux*.
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/flefantome.gif" onmouseover="this.src='{{site.baseurl}}/imgs/flefantome.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/flefantome.gif'" /></figure>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/fantomes01.gif" onmouseover="this.src='{{site.baseurl}}/imgs/fantomes01.png'" onmouseout="this.src='{{site.baseurl}}/imgs/fantomes01.gif'" /></figure>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/fantomes.gif" onmouseover="this.src='{{site.baseurl}}/imgs/fantomes.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/fantomes.gif'" /></figure>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/fantomes02.gif" onmouseover="this.src='{{site.baseurl}}/imgs/fantomes02.png'" onmouseout="this.src='{{site.baseurl}}/imgs/fantomes02.gif'" /></figure>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/fantomes03.gif" onmouseover="this.src='{{site.baseurl}}/imgs/fantomes03.png'" onmouseout="this.src='{{site.baseurl}}/imgs/fantomes03.gif'" /></figure>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/fantomes04.gif" onmouseover="this.src='{{site.baseurl}}/imgs/fantomes04.png'" onmouseout="this.src='{{site.baseurl}}/imgs/fantomes04.gif'" /></figure>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/fantomes05.gif" onmouseover="this.src='{{site.baseurl}}/imgs/fantomes05.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/fantomes05.gif'" /></figure>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/fantomes07.gif" onmouseover="this.src='{{site.baseurl}}/imgs/fantomes07.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/fantomes07.gif'" /></figure>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/fantomesfin.gif" onmouseover="this.src='{{site.baseurl}}/imgs/fantomesfin.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/fantomesfin.gif'" /></figure>

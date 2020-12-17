@@ -4,7 +4,7 @@
   {% assign t = tag | first %}
   <div class="piste">
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
-        {% if tag_name == '05-le-bruit-des-etoiles' or tag_name == '03-la-quete-de-la-quete' or tag_name == '01-∞lecture' %}<span class="smile big-s">&#9786;</span>
+        {% if tag_name == '05-le-bruit-des-etoiles' or tag_name == '03-la-quete-de-la-quete' or tag_name == '01-∞lecture' or tag_name == '00-If-Hollywood...' %}<span class="smile big-s">&#9786;</span>
         <h2>{{ t | split: '-' | shift | join: ' '}}</h2>
       {% for post in site.tags.[tag_name] %}
       {% assign page_title = page.title | downcase%}

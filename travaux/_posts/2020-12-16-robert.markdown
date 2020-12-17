@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Conversations avec Robert"
+date: 2020-12-16 10:12:37 +0200
+tags: 00-If-Hollywood...
+type: travaux
+medium: 'Edition'
+annee: '2012'
+description: 'couverture sérigraphiée, impression laser'
+dimensions: '20 pages, 20 x 20 cm'
+icone: '&#9707;'
+---
+
+*Conversations avec Robert* retrace les fragments de réflexions de Bob, sur la piste de [Bandini]({% post_url /travaux/2020-12-17-ask-the-dust %}) lors d'un court séjour dans la ville-cliché de Los Angeles. Le texte est accompagné de certains schémas tirés de [Tant qu'on voit l'horizon]({% post_url /travaux/2020-12-17-schemasla %}).
+
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/conversations01.gif" onmouseover="this.src='{{site.baseurl}}/imgs/conversations01.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/conversations01.gif'" /></figure>
+<figcaption>Edition repliée, photographie : Richard Porteau</figcaption>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/conversations02.gif" onmouseover="this.src='{{site.baseurl}}/imgs/conversations02.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/conversations02.gif'" /></figure>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/conversations03.gif" onmouseover="this.src='{{site.baseurl}}/imgs/conversations03.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/conversations03.gif'" /></figure>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/conversations04.gif" onmouseover="this.src='{{site.baseurl}}/imgs/conversations04.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/conversations04.gif'" /></figure>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/conversations05.gif" onmouseover="this.src='{{site.baseurl}}/imgs/conversations05.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/conversations05.gif'" /></figure>

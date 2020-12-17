@@ -252,6 +252,8 @@ border-top:var(--border);
 		.travaux-gauche{
 		border-right:var(--border);
 		border-bottom:var(--border);
+		overflow-y:scroll;
+		max-height:83vh;
 
 			.piste{
 			padding:10px;
@@ -284,10 +286,12 @@ border-top:var(--border);
 		.travaux-droite{
 			overflow-y:scroll;
 			overflow-x:hidden;
-			max-height:87vh;
+			max-height:83vh;
+			border-bottom:var(--border);
 
 			article{
 			padding:0;
+			border-bottom:none;
 			}
 			.post-title, .post-inter-title{
 			padding:10px 10px 0px 10px;
