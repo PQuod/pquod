@@ -1,0 +1,11 @@
+---
+layout: bigpost
+title: 'Quête²'
+date: 2021-01-06 10:12:37 +0200
+type: travaux
+---
+En 2017 paraît [La Nuit sera belle](/lanuitserabelle/) aux éditions Actes Sud. Quête² retrace les différentes cristallisations qui ont mené mes recherches vers le roman.
+
+Ce travail d'écriture a été découpé en 5 axes (01. Cheminement, 02. Agencement, 03. Espace & Temps, 04. Travail & Oisiveté, 05. La Cinquième Dimension) et leur exploration a donné lieu à diverses formes [imprimées et numériques](/hexeract/) ainsi qu'à des [performances](/performances/).
+
+<figure><img class="photosintros" style="width:33%; margin-left:33%;" src="{{site.baseurl}}/imgs/quete.gif" /></figure>

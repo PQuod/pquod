@@ -4,8 +4,15 @@
   {% assign t = tag | first %}
   <div class="piste">
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
-        {% if tag_name == '05-le-bruit-des-etoiles' or tag_name == '03-la-quete-de-la-quete' or tag_name == '01-∞lecture' or tag_name == '00-If-Hollywood...' or tag_name == '00-Graphies' %}<span class="smile big-s">&#9786;</span>
-        <h2>{{ t | split: '-' | shift | join: ' '}}</h2>
+        {% if tag_name == '05-le-bruit-des-etoiles' or tag_name == '03-quete²' or tag_name == '01-∞lecture' or tag_name == '00-If-Hollywood...' or tag_name == '00-Graphies' %}<span class="smile big-s">&#9786;</span>
+         {% if tag_name == '05-le-bruit-des-etoiles'%}<a href="{% post_url /travaux/2020-12-16-big-lbde %}" class="gros-lien"><h2>{{ t | split: '-' | shift | join: ' '}}</h2></a>
+         {% elsif tag_name == '03-quete²'%}<a href="{% post_url /travaux/2020-12-16-big-quete %}" class="gros-lien"><h2>{{ t | split: '-' | shift | join: ' '}}</h2></a>
+         {% elsif tag_name == '01-∞lecture'%}<a href="{% post_url /travaux/2020-12-16-big-lecture %}" class="gros-lien"><h2>{{ t | split: '-' | shift | join: ' '}}</h2></a>
+         {% elsif tag_name == '00-If-Hollywood...'%}<a href="{% post_url /travaux/2020-12-16-big-hollywood %}" class="gros-lien"><h2>{{ t | split: '-' | shift | join: ' '}}</h2></a>
+         {% elsif tag_name == '00-Graphies'%}<a href="{% post_url /travaux/2020-12-16-big-graphies %}" class="gros-lien"><h2>{{ t | split: '-' | shift | join: ' '}}</h2></a>
+
+         {% else %}<h2>{{ t | split: '-' | shift | join: ' '}}</h2>
+         {% endif %}
       {% for post in site.tags.[tag_name] %}
       {% assign page_title = page.title | downcase%}
       {% assign post_title = post.title | downcase%}

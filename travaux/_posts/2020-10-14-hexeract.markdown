@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Hexeract & échafaudages"
-date: 2020-02-09 10:12:37 +0200
-tags: 03-la-quete-de-la-quete
+date: 2020-10-14 10:12:37 +0200
+tags: 03-quete²
 type: travaux
 annee: '2015'
 medium: 'Édition'

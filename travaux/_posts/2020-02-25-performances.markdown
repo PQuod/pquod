@@ -2,7 +2,7 @@
 layout: post
 title: "Performances"
 date: 2020-02-25 10:12:37 +0200
-tags: 03-la-quete-de-la-quete
+tags: 03-quete²
 type: travaux
 medium: 'performance'
 dimensions: 'durée variable'

@@ -1,0 +1,19 @@
+---
+layout: bigpost
+title: 'Le Bruit des Etoiles'
+date: 2020-02-25 10:12:37 +0200
+type: travaux
+---
+Le Bruit des Étoiles est le nom (provisoire) d'un manuscrit dont l'écriture est en cours depuis 2018.
+
+On pourrait le résumer ainsi : "C'est l'histoire d'un type qui pense qu'il y a quelque chose dans les parasites de la radio". Ou "C'est l'histoire d'un type que le Temps rend malade". Ou encore "C'est l'histoire d'un type qui est revenu de la Grande Pêche". Ou enfin "C'est une histoire d'explosion(s)".
+
+C'est un manuscrit qui parle de la grêve d'une raffinerie, des aurores boréales, d'un éphéméride de couleurs, du fond diffus cosmologique, du Big Bang et d'une Renault 19.
+
+Ce travail d'écriture a donné forme à plusieurs pièces satellites, qui explorent elles aussi les grands axes de recherche du manuscrit.
+
+[Moonersatz](/moonersatz/) s'intéresse aux fréquences électromagnétiques qui nous parviennent depuis l'espace et [C'est Dimanche](/whateverhappens/) raconte la réception d'un message extraterrestre un dimanche entre le rôti et les flageolets.
+
+[Pêcher les fantômes](/pecher-les-fantomes/) parle d'érosion, de géologie et de pêche au chalut et [Que reste-t-il après le départ de la grande pêche](/whateverhappens) décrit la vie de ceux qui restent à terre quand le navire a disparu au large.
+
+<figure><img class="photosintros" style="width:50%; margin-left:25%;" src="{{site.baseurl}}/imgs/lbde01.gif" /></figure>
