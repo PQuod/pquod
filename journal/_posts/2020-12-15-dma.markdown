@@ -6,4 +6,4 @@ categories: websites
 ---
 Je ne me suis jamais autant amusée qu'en développant le site ooooold school [Deep Music Anomaly](https://deepmusicanomaly.neocities.org) pour la [Maison de la Poésie de Rennes](https://www.maisondelapoesie-rennes.org/), afin de restituer les textes écrits par les participants de l'atelier d'écriture de Samuel Rochery. (Avec, en organisation de contenu et en conseiller spécialisé ès web 90's : Quentin Leclerc).
 
-<img class="photopost" src="{{site.baseurl}}/imgs/dma.gif" onmouseover="this.src='{{site.baseurl}}/imgs/dma.PNG'" onmouseout="this.src='{{site.baseurl}}/imgs/dma.gif'" />
+<img class="photopost" src="{{site.baseurl}}/imgs/dma.gif" onmouseover="this.src='{{site.baseurl}}/imgs/dma.png'" onmouseout="this.src='{{site.baseurl}}/imgs/dma.gif'" />

@@ -23,8 +23,9 @@ et plusieurs auteur·ice·s sont invité·e·s à y contribuer.
 - Juillet : Poésie Maxi Limoneuse
 - **Saison 02** :
 - Octobre : Poésie Maxi Ébouriffante
+- Décembre : Poésie Maxi Farineuse
 - **LE TUR-FU** :
-- Poésie Maxi Farineuse, Ectoplasmique et Moléculaire débarquent bientôt !
+- Poésie Maxi Ectoplasmique et Moléculaire débarquent bientôt !
 
 Pour en savoir plus, c'est sur [le site de poesie maxi](https://poesiemaxi.hotglue.me/)
 <figcaption>La saison 01 de Poésie Maxi &middot; Photographie : Charlotte Baltzung</figcaption>

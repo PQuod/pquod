@@ -252,7 +252,7 @@ border-top:var(--border);
 		border-right:var(--border);
 		border-bottom:var(--border);
 		overflow-y:auto;
-		height: calc(100vh - calc(var(--line-height)*3));
+		height: calc(100vh - calc(var(--line-height)*4));
 
 			.piste{
 			padding:10px;
@@ -288,7 +288,7 @@ border-top:var(--border);
 		.travaux-droite{
 			overflow-x:hidden;
 			overflow-y:auto;
-			height: calc(100vh - calc(var(--line-height)*3));
+			height: calc(100vh - calc(var(--line-height)*4));
 			border-bottom:var(--border);
 
 			.travaux-intro{
@@ -365,15 +365,11 @@ border-top:var(--border);
 						text-shadow:var(--fig-shadow);
 						}
 				}
-				figure{
-
-				}
 				.photosintros{
 					height:auto;
 				mix-blend-mode: var(--blend-mode);
 				margin-left:33%;
 				}
-
 			}
 		}
 	}
@@ -384,7 +380,6 @@ border-top:var(--border);
 	border-top:var(--border);
 }
 .liens-content{
-
 	width:100%;
 	  display: grid;
 	  grid-template-columns: repeat(3, 1fr);
@@ -462,4 +457,8 @@ font-family:var(--sans-serif);
 letter-spacing: var(--big-space);
 font-weight:bold;
 text-transform:uppercase;
+}
+
+.inflo{
+	text-align:center;
 }
