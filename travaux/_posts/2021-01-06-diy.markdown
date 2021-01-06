@@ -1,0 +1,24 @@
+---
+layout: post
+title: "DIY for a New World Order"
+date: 2021-01-06 10:12:37 +0200
+tags: 00-Graphies
+type: travaux
+medium: 'Installation'
+annee: '2013'
+description: 'peinture métallique, impression sur papier aimanté'
+dimensions: '1 x 1,70 m'
+icone: '▣'
+---
+*DIY – Kit de Théorie du Complot* est un set de magnets comportant des bouts de phrases ou de simples mots issus du champ sémantique conspirationniste. Ils peuvent être réagencés dans n’importe quel sens pour recomposer un texte complotiste. Ce procédé est une illustration de la construction hasardeuse de toute théorie du complot. Il reproduit l’imaginaire et la logique conspirationniste : il semble que n’importe quel bout d’évènement, actuel ou passé, peut être associé avec n’importe quel acteur et n’importe quelles preuves. Leur contenu, leur construction et leur pertinence ne sont limités par aucune notion d’absurde. Les rouages sont interchangeables et la machine n’a qu’un but : trouver un responsable.
+
+Le public est invité à agencer lui-même sa propre théorie du complot en combinant les magnets dans l'espace d'exposition.
+
+« Toi aussi, crée ta propre conspiration pour un Nouvel Ordre Mondial ! Mets en scène les gouvernements du monde entier, les extra-terrestres, les juifs, les francs-maçons, les Illuminatis ou encore Paco Rabanne afin de créer les complots les plus inventifs et les plus alarmants, dans une infinité de combinaisons plus paranoïaques les unes que les autres ! Des heures de jeu en perspective ! »
+
+<figcaption>Photographies de l'exposition <i>Zones d'ombre</i> aux ateliers Quatrepourcent, à Nancy. Photographies : Alix Desaubliaux</figcaption>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/diy05.gif" onmouseover="this.src='{{site.baseurl}}/imgs/diy05.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/diy05.gif'" /></figure>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/diy01.gif" onmouseover="this.src='{{site.baseurl}}/imgs/diy01.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/diy01.gif'" /></figure>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/diy02.gif" onmouseover="this.src='{{site.baseurl}}/imgs/diy02.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/diy02.gif'" /></figure>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/diy03.gif" onmouseover="this.src='{{site.baseurl}}/imgs/diy03.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/diy03.gif'" /></figure>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/diy04.gif" onmouseover="this.src='{{site.baseurl}}/imgs/diy04.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/diy04.gif'" /></figure>

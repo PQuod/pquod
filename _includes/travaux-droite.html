@@ -1,3 +1,11 @@
 <div class="travaux-droite">
+  {% for nav in site.data.nav %}
+{% if nav.url == page.url %}
+<div class="travaux-intro">
+&#9881;<br>
+</div>
+{% endif %}
+{% endfor %}
 {{ content }}
+
 </div>
