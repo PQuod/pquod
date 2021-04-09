@@ -6,7 +6,7 @@ categories: poesiemaxi editions
 ---
 Poésie Maxi farineuse est bientôt dans les boîtes aux lettres, avec une belle parure de fêtes !
 
-Feat. [Fanny Alizon](http://fannyalizon.free.fr/) & [Charles Cailleteau](http://achtaitaipai.free.fr/), [Arthur Debert](http://www.arthurdebert.fr/), [Antoine Liebaert](https://www.antoineliebaert.fr/) & Jack Torrance
+Feat. [Fanny Alizon](http://fannyalizon.free.fr/), [Charles Cailleteau](http://achtaitaipai.free.fr/), [Arthur Debert](http://www.arthurdebert.fr/), [Antoine Liebaert](https://www.antoineliebaert.fr/) & Jack Torrance
 
 Pour s'abonner, c'est toujours [ici](https://poesiemaxi.hotglue.me/)
 

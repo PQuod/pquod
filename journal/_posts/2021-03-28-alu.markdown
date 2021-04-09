@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Workshop Feu"
+date: 2021-03-28 10:12:37 +0200
+categories: wip
+---
+
+Depuis janvier 2021, je fais partie de [l'Atelier Vivarium](https://vivarium-online.com/) ! Ce weekend, on a fondu de l'alu dans une théière en fonte avec un feu dernière génération à base de briques réfractaires et d'une ventilation ultra-tech, pour préparer l'expo *L'autre Loi de la jungle 2* qui aura lieu cet été aux [Ateliers du vent](https://www.lesateliersduvent.org/) ! C'était shlag, c'était bien.
+
+<img class="photopost" src="{{site.baseurl}}/imgs/poesiemaxis01.gif" onmouseover="this.src='{{site.baseurl}}/imgs/workshopalu.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/workshopalu.gif'" />
+ 
