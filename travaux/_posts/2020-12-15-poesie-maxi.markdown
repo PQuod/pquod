@@ -24,9 +24,11 @@ et plusieurs auteur·ice·s sont invité·e·s à y contribuer.
 - **Saison 02** :
 - Octobre : Poésie Maxi Ébouriffante
 - Décembre : Poésie Maxi Farineuse
-- **LE TUR-FU** :
-- Poésie Maxi Ectoplasmique et Moléculaire débarquent bientôt !
+- Avril : Poésie Maxi Extoplasmique
+- Mai : Poésie Maxi Moléculaire
 
-Pour en savoir plus, c'est sur [le site de poesie maxi](https://poesiemaxi.hotglue.me/)
-<figcaption>La saison 01 de Poésie Maxi &middot; Photographie : Charlotte Baltzung</figcaption>
-<figure><img class="photopost" src="{{site.baseurl}}/imgs/poesiemaxis01.gif" onmouseover="this.src='{{site.baseurl}}/imgs/poesiemaxis01.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/poesiemaxis01.gif'" />
+En juin 2021, *Poésie Maxi Complète*, l'intégrale des 02 saisons de Poésie Maxi, est sortie. Son lancement a eu lieu à [Glassbox](glassbox.fr), dans le cadre de *Blackscreen_Issues_Sleeping_Displays*, une exposition de [Carin Klonowski](carineklonowski.net).  
+Elle sera bientôt disponible à la vente sur [le site de poesie maxi](https://poesiemaxi.hotglue.me/)
+
+<figcaption>Poésie Maxi Complète &middot; Photographie : Charlotte Baltzung</figcaption>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/poesie-maxi-complete.gif" onmouseover="this.src='{{site.baseurl}}/imgs/poesie-maxi-complete.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/poesie-maxi-complete.gif'" />

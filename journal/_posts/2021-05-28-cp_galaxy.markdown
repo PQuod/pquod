@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Résidence Corner Poster"
+date: 2021-05-28 10:12:37 +0200
+categories: wip editions
+---
+
+Du 24 au 28 mai 2021, j'étais en résidence chez le [Studio Courte Echelle](https://studiocourteechelle.com/) afin de concocter un nouveau [Corner Poster](https://studiocourteechelle.com/project/corner-posters/) au coeur de l'infiniment grand><petit. On s'est adonnés pour la première fois au cyanotypes à base de fond de bocaux de cuisine.
+
+<img class="photopost" src="{{site.baseurl}}/imgs/cpgalaxy.gif" onmouseover="this.src='{{site.baseurl}}/imgs/cpgalaxy.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/cpgalaxy.gif'" />

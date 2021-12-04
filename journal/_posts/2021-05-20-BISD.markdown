@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Blackscreen_Issues_Sleeping_Displays"
+date: 2021-05-20 10:12:37 +0200
+categories: expositions
+---
+
+J'ai le grand honneur d'avoir été invitée par [Carin Klonowski](carineklonowski.net) à figurer dans *Blackscreen_Issues_Sleeping_Displays*, son exposition de restitution de résidence à [Glassbox](http://www.glassbox.fr/2021/carin-klonowski).
+
+J'y présente une installation, *Le Bruit du Ciel*, qui sera activée lors d'une performance intitulée *Au commencement, il y eut une explosion* le samedi 29 mai à 16h.
+
+<img class="photopost" src="{{site.baseurl}}/imgs/lbdc.gif" onmouseover="this.src='{{site.baseurl}}/imgs/lbdc.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/lbdc.gif'" />

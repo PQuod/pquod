@@ -1,0 +1,13 @@
+---
+layout: post
+title: "La Guerrière - One Million Queendoms"
+date: 2021-06-03 10:12:37 +0200
+categories: guerriere
+---
+La deuxième exposition de la Guerrière, [À perte de vue, je vois clair](https://laguerriere.net/expositions/2021/05/03/expos-exposition02.html), présente le travail de [Claire Guetta](http://www.claireguetta.com/) & [Vincent Naba](https://vincentnaba.hotglue.me/).
+
+**Vernissage le jeudi 26 juin à 18h.**  
+Exposition visible du **25 juin au 04 juillet.**  
+Visites sur RDV : laguerrierecontact@protonmail.com
+
+<img class="photopost" src="{{site.baseurl}}/imgs/aperte.gif" onmouseover="this.src='{{site.baseurl}}/imgs/aperte.JPG'" onmouseout="this.src='{{site.baseurl}}/imgs/aperte.gif'" />

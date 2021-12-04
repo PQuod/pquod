@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Fusion 660 - La performance"
+date: 2021-07-02 10:12:37 +0200
+categories: expositions
+---
+Le 08 juillet 2021, on s'est installés sur le parvis des Ateliers du vent pour activer notre forge artisanale de fonte d'alu, dans le cadre de l'exposition collective [Les Langues de Feux](http://www.lesateliersduvent.org/evenement/les-langues-de-feux).
+
+Performance réalisée par le team feu : Alix Desaubliaux, Thomas Portier, Manon Riet, Alisson Schmitt, Mathilde Vaillant et moi-même.
+
+
+<img class="photopost" src="{{site.baseurl}}/imgs/fusion660perf.gif" onmouseover="this.src='{{site.baseurl}}/imgs/fusion660perf.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/fusion660perf.gif'" />

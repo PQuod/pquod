@@ -8,6 +8,8 @@
 						<li class="cat-nav"><a class="{% if page.category == category_name %} active {% endif %}" href="{{ site.baseurl }}/category/{{ category[0] | slugify }}">
 						<span class="nav-legende">{%- if category_name == 'editions' -%}
 						&#9636; </span> {{ category_name }}
+						{%- elsif category_name =='expositions' -%}
+						&#9707; </span> {{ category_name }}
 						{%- elsif category_name =='wman' -%}
 						&#9637; </span> {{ category_name }}
 						{%- elsif category_name =='jeux' -%}
@@ -22,6 +24,8 @@
 						&#9703; </span> {{ category_name }}
 						{%- elsif category_name =='presse' -%}
 						&#9704; </span> {{ category_name }}
+						{%- elsif category_name == 'guerriere' -%}
+						&#9635; </span> {{ category_name }}
 						{%- endif -%}
 
 						</a></li>

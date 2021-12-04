@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Fusion660"
+date: 2021-07-02 10:12:37 +0200
+categories: expositions
+---
+Au sein de l'exposition collective [Les Langues de Feux](http://www.lesateliersduvent.org/evenement/les-langues-de-feux) on présente *Fusion 660* avec la super team composée d'Alix Desaubliaux, Thomas Portier, Manon Riet, Alisson Schmitt, Mathilde Vaillant et moi-même.
+
+Exposition aux Ateliers du vent, du 02 juillet au 01 août.
+
+On active aussi notre super four-dragon lors d'une performance de fusion d'alu **le 08 juillet de 18h à 22h**.
+
+<img class="photopost" src="{{site.baseurl}}/imgs/fusion660.gif" onmouseover="this.src='{{site.baseurl}}/imgs/fusion660.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/fusion660.gif'" />

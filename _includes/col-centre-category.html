@@ -12,6 +12,10 @@
         <span class="infobulle" aria-label="{{ category }}">
     			{%- if category == 'editions' -%}
     			<a class="{% if page.category == category %} active {% endif %}" href="{{ site.baseurl }}/category/{{ category }}">&#9636;</a>
+          {%- elsif category == 'guerriere' -%}
+          <a class="{% if page.category == category %} active {% endif %}" href="{{ site.baseurl }}/category/{{category}}">&#9635;</a>
+          {%- elsif category == 'expositions' -%}
+          <a class="{% if page.category == category %} active {% endif %}" href="{{ site.baseurl }}/category/{{category}}">&#9707;</a>
     			{%- elsif category =='wman' -%}
     			<a class="{% if page.category == category %} active {% endif %}" href="{{ site.baseurl }}/category/{{ category }}">&#9637;</a>
     			{%- elsif category =='jeux' -%}
