@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Fusion 660"
+date: 2020-12-15 10:12:37 +0200
+tags: '04-fusion'
+type: travaux
+medium: 'Avec Alix Desaubliaux, Thomas Portier, Manon Riet, Alisson Schmitt & Mathilde Vaillant ⊗ Installation & performance ⊗ céramique, cuir, tissu, aluminium, sable'
+dimensions: 'dimensions variables'
+annee: '2021'
+icone: '&#x2BBD;'
+---
+*Fusion 660* est une pièce collective réalisée avec Alix Desaubliaux, Thomas Portier, Manon Riet, Alisson Schmitt & Mathilde Vaillant, dans le cadre de la participation de l'atelier Vivarium à l'exposition [Les Langues de feux](http://www.lesateliersduvent.org/evenement/les-langues-de-feux).
+
+*Fusion 660* est un projet de fonderie DIY  imaginée par six artistes du Vivarium - atelier  artistique mutualisé. Adeptes des tutoriels en  ligne, elles et il se sont retrouvé·es autour d’une  envie commune d’expérimenter des matières  et des savoir-faire que personne d’entre elles  et eux ne maîtrisait auparavant. C’est dans la  joie de l’auto-apprentissage collectif et par  l’imbrication de leurs différentes sensibilités  qu’ont progressivement émergé les formes  du projet. En authentiques bricoleur·ses,  elles et il ont utilisé tout ce qui leur passait  sous la main, et puisé de l’inspiration dans  leur environnement le plus proche : la zone  industrielle Route de Lorient avec ses quantités  de tôles, de magasins de BTP et de motos, mais  aussi de nombreux déchets volants. La première  fonderie, à l’esthétique « punk-à-chien »,  permettait de recycler les canettes métalliques  vides trouvées aux abords de l’atelier.  Finalement, dans un souci de soin envers les  participant·es à l’activation performative de la  fonderie, le collectif a opté pour transformer  les canettes au préalable en pièces d’aluminium  plus épurées. Afin d’optimiser la production de  chaleur, la fonderie s’est revêtu d’un habillage  en céramique aux formes mi-végétales mi animales, rappelant autant la figure mythique  du dragon, la costumisation de motos pratiquée  dans la zone ainsi que l’esthétique des poêles  ornementaux domestiques. Fusion 660 combine  ainsi des références hétérogènes tout en faisant  naître une communauté éphémère autour  de valeurs partagées telles que l’économie  circulaire, la réappropriation des moyens de production et l’émancipation collective par le partage des connaissances.
+
+<figcaption>Le four dragon, vue de l'exposition *Les Langues de feux*</figcaption>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/fusion660.gif" onmouseover="this.src='{{site.baseurl}}/imgs/fusion660.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/fusion660.gif'" /></figure>
+
+<figcaption>Vue de l'exposition *Les Langues de feux* </figcaption>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/fusion6602.gif" onmouseover="this.src='{{site.baseurl}}/imgs/fusion6602.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/fusion6602.jpg'" /></figure>
+
+<figcaption>Détail d'une pièce réalisée lors de l'activation</figcaption>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/fusion6603.gif" onmouseover="this.src='{{site.baseurl}}/imgs/fusion6603.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/fusion6603.gif'" /></figure>
+
+<figcaption>Détail du four dragon</figcaption>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/fusion6604.gif" onmouseover="this.src='{{site.baseurl}}/imgs/fusion6604.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/fusion6604.gif'" /></figure>
+
+<figcaption>Performance</figcaption>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/fusion6605.gif" onmouseover="this.src='{{site.baseurl}}/imgs/fusion6605.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/fusion6605.gif'" /></figure>
+
+<figcaption>Performance</figcaption>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/fusion6606.gif" onmouseover="this.src='{{site.baseurl}}/imgs/fusion6606.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/fusion6606.gif'" /></figure>
+
+<figcaption>Performance</figcaption>
+<figure><img class="photopost" src="{{site.baseurl}}/imgs/fusion660perf.gif" onmouseover="this.src='{{site.baseurl}}/imgs/fusion660perf.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/fusion660perf.gif'" /></figure>

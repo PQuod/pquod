@@ -28,6 +28,12 @@
           {% assign post_title = post.title | downcase%}
           <span class="smile big-s">&#9786;&#9786;&#9786;</span><h2 class="{% if page_title == post_title %}active{% endif %}"><a href="{% post_url /travaux/2020-12-15-wman-guild %}" class="gros-lien">{{ t | split: '-' | shift | join: ' '}}</a></h2>
           {% endfor %}
+          {% elsif  tag_name == '04-fusion' %}
+          {% for post in site.tags.[tag_name] %}
+          {% assign page_title = page.title | downcase%}
+          {% assign post_title = post.title | downcase%}
+          <span class="smile big-s">&#9786;&#9786;&#9786;</span><h2 class="{% if page_title == post_title %}active{% endif %}"><a href="{% post_url /travaux/2020-12-15-fusion %}" class="gros-lien">{{ t | split: '-' | shift | join: ' '}}</a></h2>
+          {% endfor %}
           {% elsif tag_name == '02-poesie-maxi' %}
           {% for post in site.tags.[tag_name] %}
           {% assign page_title = page.title | downcase%}

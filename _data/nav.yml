@@ -1,12 +1,12 @@
 - text: Journal
   place: header
-  url: /pquod/
+  url: /
 - text: Travaux
   place: header
-  url: /pquod/travaux/
+  url: /travaux/
 - text: Listes
   place: header
-  url: /pquod/listes/
+  url: /listes/
 - text: Tout
   place: droite
   url: /pquod
