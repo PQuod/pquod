@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm P_Quod, a french artist and web developer based in Rennes.
+I'm Lucie Desaubliaux, a french artist and web developer based in Rennes.
 
 My dev website is [here](https://pquod.github.io/dev_portfolio/)
 My artist website is [there](http://luciedesaubliaux.fr)
