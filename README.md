@@ -3,7 +3,7 @@ I'm Lucie Desaubliaux, a french artist and web developer based in Rennes.
 
 I'm currently working [on a page regrouping all my coding and artistic activities](https://pquod.github.io/personal_timeline/)
 
-To sse more of my work:
+To see more of my work:
 My dev website is [here](https://pquod.github.io/dev_portfolio/)
 My not at all updated artist website is [there](http://luciedesaubliaux.fr)
 
