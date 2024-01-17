@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+*I'm currently on maternity leave, I'll be officially back in spring :)*
+
 I'm Lucie Desaubliaux, a french artist and web developer based in Rennes.
 
 I'm currently working [on a page regrouping all my coding and artistic activities](https://pquod.github.io/personal_timeline/)
