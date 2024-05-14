@@ -11,7 +11,8 @@ My dev website is [here](https://pquod.github.io/dev_portfolio/)
 My not at all updated artist website is [there](http://luciedesaubliaux.fr)
 
 **2024**
-Maternity leave !
+
+Maternity leave! Not much will be updated here, but you can still reach me by mail!
 
 **2023**
 - 🔭 I released a jekyll theme named [Simply Cyan](https://github.com/PQuod/simply-cyan-theme) and a small project about my journeys through space and seas in videogames: [SpaceSnap](https://pquod.github.io/spacesnap/).
